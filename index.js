@@ -19,8 +19,8 @@ app.get('/', function(req, res){
   res.sendFile(__dirname + '/index.html');
 });
 
-app.get('/server', function(req, res){
-  res.sendFile(__dirname + '/server.html');
+app.get('/broadcaster', function(req, res){
+  res.sendFile(__dirname + '/broadcaster.html');
 });
 
 app.get('/client', function(req, res){
