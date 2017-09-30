@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Server Page</title>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      body { font: 13px Helvetica, Arial; height: 500px; }
+      #messages { list-style-type: none; margin: 0; padding: 0; }
+      #messages li { padding: 5px 10px; }
+      #messages li:nth-child(odd) { background: #eee; }
+    </style>
+  </head>
+  <body>
+    <h1>The Server Page</h1>
+    <p>Type some stuff and check out the client</p>
+    <script src="https://code.jquery.com/jquery-1.11.1.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+      $(document).ready(function() {
+        console.log("doc ready!");
+
+        var socket = io();
+        $("body").on("click", function() {
+          console.log("click received!");
+          socket.emit('caption message', "This is a test message");
+        });
+      });
+    </script>
+  </body>
+</html>
