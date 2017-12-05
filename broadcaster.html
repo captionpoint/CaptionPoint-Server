@@ -42,6 +42,7 @@
           }
           // if you type "s", resend the status
           if (event.which == 83) {
+            socket.emit('redirect', currentSlideNumber);
             interval = setInterval(function() {
               broadcastStatus(currentSlideNumber);
             }, 3000);

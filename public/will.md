@@ -97,6 +97,8 @@ It was awful, Alice.
 ---
 ## HENRY:
 So very awful.
+---
+## HENRY:
 I was not enough prepared for that level of mediocrity.
 ---
 ## JOHN:
@@ -197,7 +199,11 @@ We shall spare you the description of Gertrude.
 ---
 ## HENRY:
 The lady doth protest so very much, methinks.
+---
+## HENRY:
 Did they not read the part where he says, “Do not saw the air too much with your hand”?
+---
+## HENRY:
 Act Two.
 ---
 .char[
@@ -211,6 +217,8 @@ Act Two.
 ---
 ## HENRY:
 Act Three.
+---
+## HENRY:
 And here the simpering thing is extricating the logs of an unseen forest.
 ---
 ## JOHN:
@@ -259,8 +267,7 @@ Yes I do.
 All right, Burbage.
 ---
 ## HENRY:
-A lion indeed.
-That you were, John.
+A lion indeed…that you were, John.
 ---
 ## JOHN:
 That was a long time ago.
@@ -298,8 +305,9 @@ Well no matter what how the mice skitter, it’s you that play to packed houses,
 You are all lions of the boards to this day and no hack Hamlet will change that.
 ---
 ## HENRY:
-No.
-Tis we ourselves will do it.
+No…’tis we ourselves will do it.
+---
+## HENRY:
 We are not young.
 ---
 ## BURBAGE:
@@ -309,6 +317,8 @@ So do actors.
 ---
 ## HENRY:
 Theatre is lived, not kept.
+---
+## HENRY:
 It sleeps when we do.
 ---
 ## JOHN:
@@ -357,6 +367,8 @@ Neither bird nor bell as Burbage leans over his Cordelia—
 ---
 ## HENRY:
 A flood of weeping, the whole Globe weeping.
+---
+## HENRY:
 But silent.
 ---
 ## JOHN:
@@ -384,6 +396,8 @@ Mayhem and gore always do.
 ---
 ## HENRY:
 But *Merry Wives* sold the better than all of them.
+---
+## HENRY:
 Your Falstaff, John?
 ---
 ## ALICE:
@@ -417,8 +431,14 @@ The blood in mine eyes—the palpating heart.
 ---
 ## HENRY:
 The best time I had in any play?
+---
+## HENRY:
 You’re going to laugh.
+---
+## HENRY:
 Being backstage for the beginning of *The Tempest?*
+---
+## HENRY:
 The storm at sea?
 ---
 ## BURBAGE:
@@ -456,13 +476,13 @@ I know it’s from Macbeth, I played Macbeth and I’ll play it again right now.
 Who wants to be a witch?
 ---
 ## HENRY:
-You know my favorite was always Pericles.
+You know my favorite was always *Pericles*.
 ---
 ## JOHN:
-Pericles?
+*Pericles*?
 ---
 ## ALICE:
-Which one was Pericles?
+Which one was *Pericles*?
 ---
 ## HENRY:
 With the King and the daughter and the riddle that he figures out and then leaves on a boat and—
@@ -569,7 +589,11 @@ I remember.
 ---
 ## HENRY:
 Exactly.
+---
+## HENRY:
 Now it’s those who remember, and those who don’t.
+---
+## HENRY:
 We few, we happy few, we band of—
 ---
 ## BURBAGE:
@@ -744,7 +768,7 @@ OUT OF HERE OR A BROKEN JAW FOR BOTH.
 Just l-l-leave it, I said, l-leave it.
 ---
 template: noise
-(The bar patrons laugh and mock John's stutter)
+(The bar patrons laugh and mock John’s stutter)
 ---
 template: noise
 (hand slams table)
@@ -795,7 +819,7 @@ No…No, no, no.
 To *be*, or not to be, that is the question:
 ---
 ## BURBAGE: (as Hamlet)
-Whether 'tis Nobler in the mind to suffer
+Whether ’tis Nobler in the mind to suffer
 ---
 ## BURBAGE: (as Hamlet)
 The Slings and Arrows of outrageous Fortune,
@@ -843,7 +867,7 @@ This England,
 This nurse, this teeming womb of royal kings,
 ---
 ## BURBAGE: (as Richard II)
-Fear'd by their breed and famous by their birth,
+Fear’d by their breed and famous by their birth,
 ---
 ## BURBAGE: (as Lear)
 When we are born, we cry, that we are come
@@ -884,6 +908,8 @@ What?
 ---
 ## HENRY:
 John.
+---
+## HENRY:
 It’s—I—I don’t know—I don’t know—
 ---
 ## JOHN:
@@ -904,8 +930,14 @@ Henry.
 ---
 ## HENRY:
 He’s dead, John… he’s gone.
+---
+## HENRY:
 In his sleep last night.
+---
+## HENRY:
 This morning…?
+---
+## HENRY:
 Gone.
 ---
 ## JOHN:
@@ -1030,10 +1062,20 @@ template: noise
 ---
 ## HENRY:
 Gathered friends.
+---
+## HENRY:
 In our mourning we honor the great man Richard Burbage.
+---
+## HENRY:
 A man who lived so many lives on stages across this country that all of England pauses in their pain today.
+---
+## HENRY:
 We who knew him well…
+---
+## HENRY:
 will never know another of his kindness, his caliber, and his art.
+---
+## HENRY:
 And now, the Poet Laureate of England, Master Ben Jonson, has requested a chance to speak.
 ---
 ## ALICE:
@@ -1215,7 +1257,11 @@ Good night all and God bless.
 ---
 ## HENRY:
 Wait, wait, wait, my dear.
+---
+## HENRY:
 I just…
+---
+## HENRY:
 I must say how lost and low I would be without you.
 ---
 ## ELIZABETH:
@@ -1335,6 +1381,8 @@ God’s light, who knows the speeches now?
 ---
 ## HENRY:
 God in Heaven, you’re right.
+---
+## HENRY:
 No one knew the plays like he did.
 ---
 ## ALICE:
@@ -1347,8 +1395,14 @@ Burbage knew all of them.
 ---
 ## HENRY:
 He did.
+---
+## HENRY:
 What now?
+---
+## HENRY:
 He’s gone… so are the plays.
+---
+## HENRY:
 *What now?*
 ---
 ## ALICE:
@@ -1366,7 +1420,11 @@ Ed’s got to have all the old promptbooks, actors’ sides, he’ll know.
 ---
 ## HENRY:
 He has to know.
+---
+## HENRY:
 Those words are our life’s work, Burbage’s life’s, Will’s life.
+---
+## HENRY:
 If we don’t find them, they die with us.
 ---
 ## JOHN:
@@ -1391,7 +1449,11 @@ Too late and too drunk for riddles.
 ---
 ## HENRY:
 What if we gather them?
+---
+## HENRY:
 Collect them all.
+---
+## HENRY:
 Not in a drawer somewhere but in a…
 --
 a book.
@@ -1404,7 +1466,11 @@ Of Will’s plays?
 ---
 ## HENRY:
 Something simple, just to have them all together, so we know they’ve safe.
+---
+## HENRY:
 Have Crane pen them on fine paper.
+---
+## HENRY:
 A collection of Will’s work, for us.
 ---
 ## JOHN:
@@ -1412,6 +1478,8 @@ It would be nice to see them all again.
 ---
 ## HENRY:
 Wouldn’t it?
+---
+## HENRY:
 I don’t think Will’d mind.
 ---
 ## ALICE:
@@ -1423,6 +1491,8 @@ He would.
 ---
 ## HENRY:
 And…
+---
+## HENRY:
 If we’re going to collect them all in a book anyway we could just…
 --
 publish them.
@@ -1435,6 +1505,8 @@ Publish all the plays.
 ---
 ## HENRY:
 Yes, and not in some cheap quarto like those pirated versions, our version, the real plays by William Shakespeare set down as they were done by us.
+---
+## HENRY:
 But for everyone.
 ---
 ## ALICE:
@@ -1448,7 +1520,11 @@ And we don’t have the rights to half of them anyway.
 ---
 ## HENRY:
 Yes, we do.
-The King's Men have the rights to *all* Will’s plays.
+---
+## HENRY:
+The King’s Men have the rights to *all* Will’s plays.
+---
+## HENRY:
 He wrote for us.
 ---
 ## JOHN:
@@ -1457,8 +1533,14 @@ The rights to print the plays go to whoever prints it first, that’s why there�
 ---
 ## HENRY:
 Exactly!
+---
+## HENRY:
 We can’t let that be what’s remembered.
+---
+## HENRY:
 We publish the right plays rightly.
+---
+## HENRY:
 We must.
 ---
 ## JOHN:
@@ -1478,7 +1560,11 @@ Henry.
 ---
 ## HENRY:
 John.
+---
+## HENRY:
 Publish or vanish.
+---
+## HENRY:
 That’s the choice I see.
 ---
 ## JOHN:
@@ -1491,6 +1577,8 @@ A folio collection of them.
 ---
 ## HENRY:
 Yes!
+---
+## HENRY:
 We could publish Will’s in folio too!
 ---
 ## ALICE:
@@ -1509,6 +1597,8 @@ In heart I am with you, but desire is not a plan.
 ---
 ## HENRY:
 Well, it’s the start of one!
+---
+## HENRY:
 You always do this, you always say “no” before you even consider it.
 ---
 ## JOHN:
@@ -1524,11 +1614,23 @@ Upstart crows the lot of us.
 ---
 ## HENRY:
 All right.
+---
+## HENRY:
 What if other troupes would perform them.
+---
+## HENRY:
 Even better than we would.
+---
+## HENRY:
 But wouldn’t that be grand?
+---
+## HENRY:
 That would be a new kind of success, John.
+---
+## HENRY:
 For the real plays to go on without us.
+---
+## HENRY:
 On and on and on.
 ---
 ## ALICE:
@@ -1541,6 +1643,8 @@ When you turn my daughter against me I have very little choice.
 ---
 ## HENRY:
 Does that mean you’ll do it? For Will?
+---
+## HENRY:
 For we poor players and our tales full of sound and fury—
 ---
 ## ALICE:
@@ -1554,7 +1658,11 @@ I didn’t say yes.
 ---
 ## HENRY:
 But you will.
+---
+## HENRY:
 We’ll go to Ed first thing tomorrow.
+---
+## HENRY:
 You have a golden heart, friend.
 ---
 ## JOHN:
@@ -1565,6 +1673,8 @@ And it tends to weigh me down.
 ---
 ## HENRY:
 Aye. Everything by Will, property of The King’s Men.
+---
+## HENRY:
 We’ll take everything you have.
 ---
 ## ED:
@@ -1607,6 +1717,8 @@ Yes—
 ---
 ## HENRY:
 *Six* if you add up all the clowns.
+---
+## HENRY:
 That man could fit a clown in anything.
 ---
 ## ED:
@@ -1628,6 +1740,8 @@ We lost everything?
 ---
 ## HENRY:
 The first drafts in his own hand?
+---
+## HENRY:
 The originals?
 ---
 ## ED:
@@ -1654,8 +1768,9 @@ Thank you, Crane.
 How’s that copying coming?
 ---
 ## HENRY:
-That’s it?
-That’s all we have?
+That’s it? That’s all we have?
+---
+## HENRY:
 Five?
 ---
 ## ED:
@@ -1682,7 +1797,11 @@ Perhaps we can admit that this project is too much for us.
 ---
 ## HENRY:
 No…! John?
+---
+## HENRY:
 You’re siding with Ed?
+---
+## HENRY:
 We hate Ed.
 ---
 ## ED:
@@ -1706,7 +1825,11 @@ Sorry.
 ---
 ## HENRY:
 Just because they scripts aren’t here doesn’t mean there not somewhere.
+---
+## HENRY:
 What about Burbage?
+---
+## HENRY:
 He must’ve kept his sides.
 ---
 ## ED:
@@ -1717,8 +1840,14 @@ But even Burbage wouldn’t have the whole plays he’d just have his character�
 ---
 ## HENRY:
 Why the hell did we start doing it that way, anyway?
+---
+## HENRY:
 Every actor gets only his lines?
+---
+## HENRY:
 It’s a mess.
+---
+## HENRY:
 I blame Ed.
 ---
 ## ED:
@@ -1754,12 +1883,20 @@ And frankly our memory is worse.
 ---
 ## HENRY:
 Which is why this is so important.
+---
+## HENRY:
 That *Hamlet* is what’s left if we don’t do this and do it well.
 ---
 ## HENRY:
 Crane’s right.
+---
+## HENRY:
 We scour the city.
+---
+## HENRY:
 If there are sides in corners and cupboards across London, we’ll find them.
+---
+## HENRY:
 What about Will’s wife, surely there’s something back in Stratford.
 ---
 ## CRANE:
@@ -1787,18 +1924,44 @@ We’ve got to be reasonable about this—
 ---
 ## HENRY:
 No we don’t!
+---
+## HENRY:
 Listen to yourself!
+---
+## HENRY:
 Was it reasonable to start a theatre troupe in the first place?
+---
+## HENRY:
 Was it reasonable to hire a no-name poet who wouldn’t write a play the same way twice?
+---
+## HENRY:
 Was it reasonable build The Globe the first time, 
+---
+## HENRY:
 much less to tear it down, carry it across the Thames in the middle of the night log by log,
+---
+## HENRY:
 and build it again just to avoid rent?
+---
+## HENRY:
 No!
+---
+## HENRY:
 There is no reason in losing those plays, there is only erosion.
+---
+## HENRY:
 And erosion you can stop.
+---
+## HENRY:
 If you act fast. Now.
+---
+## HENRY:
 I have to go on in one of the few full scripts of Will’s we have left.
+---
+## HENRY:
 After that I’m going to Saint Paul’s to buy every pirated play by William Shakespeare I can find so that I can get to work.
+---
+## HENRY:
 Join me or don’t, but I’m doing this.
 ---
 ## CRANE:
@@ -1806,6 +1969,8 @@ Master Condell, I’d be honored to help you.
 ---
 ## HENRY:
 Thank you, Crane.
+---
+## HENRY:
 Thank you very much.
 ---
 ## JOHN:
@@ -1828,6 +1993,8 @@ After a day at the bookstalls with the dregs of the publishing trade I am sick w
 ---
 ## HENRY:
 But what did you find?
+---
+## HENRY:
 What plays?
 ---
 ## ALICE:
@@ -1848,6 +2015,8 @@ Would you leave that play alone?
 ---
 ## HENRY:
 I happen to like that one.
+---
+## HENRY:
 I like it a lot.
 ---
 ## ALICE:
@@ -1865,7 +2034,11 @@ Come on, that’s the best one.
 ---
 ## HENRY:
 That’s why we’re doing this.
+---
+## HENRY:
 Not just for Will or Burbage.
+---
+## HENRY:
 For Orlando and Prospero and Banquo—
 ---
 ## ALICE:
@@ -1908,9 +2081,12 @@ and a house full of paper and children is quite the fire hazard, thank you very 
 Thank you for this, Becky.
 ---
 ## HENRY:
-Yes!
-See?
+Yes! See?
+---
+## HENRY:
 Thank you for keeping what you did.
+---
+## HENRY:
 Thank you.
 ---
 ## ALICE: (under her breath)
@@ -1941,6 +2117,8 @@ Well, thank god for mistresses.
 ---
 ## HENRY:
 And happily married husbands.
+---
+## HENRY:
 Deeply happy—very deep.
 ---
 ## REBECCA:
@@ -1969,7 +2147,7 @@ I subbed in once, but—
 ## ELIZABETH:
 “If we shadows have offended,”
 “Think but this, and all is mended,”
-“That you have but slumber'd here”
+“That you have but slumber’d here”
 “While these visions did appear.”
 ---
 ## HENRY:
@@ -2004,6 +2182,8 @@ I—well—you must forgive me but—
 ---
 ## HENRY:
 Speak, Crane.
+---
+## HENRY:
 What is it?
 ---
 ## CRANE:
@@ -2038,6 +2218,8 @@ I had a lot of favorites.
 ---
 ## HENRY:
 Blessed heaven you did!
+---
+## HENRY:
 John, do you see this?
 ---
 ## ELIZABETH:
@@ -2059,6 +2241,8 @@ That’s very kind, but I just want to keep the job.
 ---
 ## HENRY:
 You will.
+---
+## HENRY:
 And you just earned another.
 ---
 ## JOHN:
@@ -2066,6 +2250,8 @@ What other?
 ---
 ## HENRY:
 Editor of the Collected Plays of William Shakespeare.
+---
+## HENRY:
 You’ve seen more of Will’s hand than anyone alive, I’d wager.
 ---
 ## JOHN:
@@ -2073,7 +2259,11 @@ Henry, wait now, we haven’t agreed to all this yet.
 ---
 ## HENRY:
 But we have the plays, John!
+---
+## HENRY:
 Full scripts, not part-by-part, not shite quartos.
+---
+## HENRY:
 We have the actual plays now.
 ---
 ## JOHN:
@@ -2141,6 +2331,8 @@ CONDELL.
 ---
 ## HENRY:
 What, ho, Ben.
+---
+## HENRY:
 Join us!
 ---
 ## ELIZABETH:
@@ -2177,6 +2369,8 @@ No.
 ---
 ## HENRY:
 Yes we are.
+---
+## HENRY:
 Now we are!
 ---
 ## JOHN:
@@ -2213,11 +2407,14 @@ The one who’s been making money off of Will’s name for decades, printing fal
 ---
 ## BEN:
 So you did not approve this then?
+---
 ## JOHN:
 Of course we did not.
 ---
 ## HENRY:
 With Jaggard printing?
+---
+## HENRY:
 Not till the core of the earth has rotted out would I work with that liar.
 ---
 ## JOHN:
@@ -2289,6 +2486,8 @@ But also plays I know aren’t his.
 ---
 ## HENRY:
 The man already published crap sonnets under Will’s name, crap quartos under Will’s name, and now this.
+---
+## HENRY:
 I will not stand for it.
 ---
 ## JOHN:
@@ -2331,7 +2530,11 @@ The freshest apples, pears, figs, and nuts!
 ---
 ## HENRY:
 Light has triumphed over darkness!
+---
+## HENRY:
 Good over evil!
+---
+## HENRY:
 And all here shall know that chicanery hath been vanquished on this day!
 ---
 ## ELIZABETH:
@@ -2345,6 +2548,8 @@ Noooo.
 ---
 ## HENRY:
 Yes!
+---
+## HENRY:
 Ben went to the Lord Chamberlain to flatten the Old Jaggard for printing Will’s work without the rights and they stopped the presses today!
 ---
 ## ELIZABETH:
@@ -2352,8 +2557,14 @@ Stopped them today?
 ---
 ## HENRY:
 They are stopped!
+---
+## HENRY:
 And Ben tells us that Jaggard played the fool.
+---
+## HENRY:
 “Oh sire, I did not know the rights were in question.”
+---
+## HENRY:
 Horse shit—
 ---
 ## ELIZABETH:
@@ -2373,6 +2584,8 @@ Please inform your glee that it needs to behave like a gentleman.
 ---
 ## HENRY:
 The gentlemen won today!
+---
+## HENRY:
 We are free to print our book the way it should be printed.
 ---
 ## ELIZABETH:
@@ -2386,6 +2599,8 @@ It’s *Will’s* book, isn’t it?
 ---
 ## HENRY:
 With him gone, and a legacy on the line?
+---
+## HENRY:
 We are Will.
 ---
 ## JOHN:
@@ -2458,6 +2673,8 @@ But everyone who should be doing this work instead of me already is.
 ---
 ## HENRY:
 Now that we can do this, we must!
+---
+## HENRY:
 If we do not, who will?
 ---
 ## ELIZABETH:
@@ -2467,6 +2684,8 @@ We want to be *investing* in this book, not donating.
 ---
 ## HENRY:
 We’ll work out the deal when we have the partners.
+---
+## HENRY:
 Right now we drink!
 ---
 ## ELIZABETH:
@@ -2475,6 +2694,8 @@ And I will not have you do all this work for nothing.
 ---
 ## HENRY:
 It’s not nothing…it’s pride, it’s love.
+---
+## HENRY:
 It’s not about profit.
 ---
 ## ELIZABETH:
@@ -2687,6 +2908,8 @@ We hope to engage you men in a conversation about the plays of William Shakespea
 ---
 ## HENRY:
 Yes sir, that we are.
+---
+## HENRY:
 How do you come to know this?
 ---
 ## JAGGARD:
@@ -2731,7 +2954,11 @@ How many?
 ---
 ## HENRY:
 We have 18 or so all together.
+---
+## HENRY:
 None of them ever printed before.
+---
+## HENRY:
 We have his *Ceasar*, *Macbeth*—
 ---
 ## ALICE:
@@ -2769,6 +2996,8 @@ GET OUT, YOU DOG.
 ---
 ## HENRY:
 He comes here to forgive us?!
+---
+## HENRY:
 *To forgive us?*
 ---
 ## ISAAC:
@@ -2802,6 +3031,8 @@ If you want to do this, you cannot do it without me.
 ---
 ## HENRY:
 We can and will.
+---
+## HENRY:
 We don’t need your filthy business.
 ---
 ## JAGGARD:
@@ -2847,6 +3078,8 @@ Is there a deal to be made, gentlemen?
 ---
 ## HENRY:
 Have you ever seen a play of his?
+---
+## HENRY:
 Ever?
 ---
 ## JAGGARD:
@@ -2896,6 +3129,8 @@ Experience.
 ---
 ## HENRY:
 No, John.
+---
+## HENRY:
 We cannot consider it, not for a  moment.
 ---
 ## JOHN:
@@ -2909,6 +3144,8 @@ Henry, you cannot keep grudges in business.
 ---
 ## HENRY:
 This is not that kind of business!
+---
+## HENRY:
 This is our heart on those pages.
 ---
 ## JOHN:
@@ -2917,11 +3154,23 @@ Wasn’t that your point when we started this?
 ---
 ## HENRY:
 Don’t you quote me at me.
+---
+## HENRY:
 This is ridiculous.
+---
+## HENRY:
 Will hated that man for a reason.
+---
+## HENRY:
 He has no scruples, we know for a fact that he doesn’t respect contract,
+---
+## HENRY:
 why on earth would we think he would respect us, or the work, or—
+
+--
 No—
+---
+## HENRY:
 Alice, help me, your father has lost his mind.
 ---
 ## ALICE:
@@ -2948,13 +3197,19 @@ Gentlemen, if I may.
 ---
 ## HENRY:
 *You*.
-Tell your father he’s a- a- what did I say?
+---
+## HENRY:
+Tell your father he’s a- a- 
+--
+what did I say?
 ---
 ## ALICE:
 Scheming, dog-hearted liar.
 ---
 ## HENRY:
 Scheming, dog-hearted liar.
+---
+## HENRY:
 You tell him that to his face.
 ---
 ISAAC
@@ -3010,6 +3265,8 @@ Aye.
 ---
 ## HENRY:
 I don’t care, John.
+---
+## HENRY:
 They could ruin our plays, run away with them, who knows what!
 ---
 ## ISAAC:
@@ -3036,6 +3293,8 @@ We have experienced editors in house—
 ---
 ## HENRY:
 Ralph Crane edits the plays with us.
+---
+## HENRY:
 He copied Will’s hand all his life, he knows what’s right.
 ---
 ## ISAAC:
@@ -3048,6 +3307,8 @@ And you only print what we know to be authored by Will Shakespeare.
 ---
 ## HENRY:
 None of this *Yorkshire Tragedy* crap.
+---
+## HENRY:
 Anything we don’t approve is out.
 ---
 ## ISAAC:
@@ -3080,6 +3341,8 @@ Though his son seems genuine enough to me.
 ---
 ## HENRY:
 Aye, *seems*.
+---
+## HENRY:
 Don’t come to me shocked when the devil’s son is exactly the devil’s like.
 ---
 ## JOHN:
@@ -3200,10 +3463,12 @@ Faith is better than nothing.
 I have seen nothing.
 ---
 ## MARCELLUS:
-Horatio says tis but our fantasy and will not let belief take hold of him.
+Horatio says ’tis but our fantasy and will not let belief take hold of him.
 ---
 ## HENRY:
 I will not believe a one of them until I see it, John.
+---
+## HENRY:
 Until I see that book in my hand.
 ---
 ## JOHN:
@@ -3211,7 +3476,11 @@ The boy is on our side, Henry.
 ---
 ## HENRY:
 I still don’t know.
+---
+## HENRY:
 Is this the right thing?
+---
+## HENRY:
 I do not know.
 ---
 ## JOHN:
@@ -3221,6 +3490,8 @@ So we must make it right and keep it right.
 ---
 ## HENRY:
 Then that’s what we’ll do.
+---
+## HENRY:
 Starting tomorrow.
 ---
 ## JOHN:
@@ -3438,6 +3709,8 @@ Rest.
 ---
 ## HENRY:
 John.
+---
+## HENRY:
 John, it’s midnight, you shouldn’t be here.
 ---
 ## JOHN:
@@ -3445,6 +3718,8 @@ What?
 ---
 ## HENRY:
 I said you shouldn’t be here.
+---
+## HENRY:
 Come with me…come home.
 ---
 ## JOHN:
@@ -3453,7 +3728,11 @@ There is nowhere to go.
 ---
 ## HENRY:
 I know it feels that way.
+---
+## HENRY:
 I know it does.
+---
+## HENRY:
 But you can come with me.
 ---
 ## JOHN:
@@ -3461,7 +3740,11 @@ Why?
 ---
 ## HENRY:
 Because this is the hardest thing you’ll ever go through and I won’t have you go through it alone.
+---
+## HENRY:
 Elizabeth insists you come and eat with us.
+---
+## HENRY:
 Come and eat.
 ---
 ## JOHN:
@@ -3469,18 +3752,44 @@ I have never thought food as useless as I do now.
 ---
 ## HENRY:
 Then we’ll both starve.
+---
+## HENRY:
 On stage.
+---
+## HENRY:
 In the dark.
+---
+## HENRY:
 When my first boy died, only months old, I couldn’t imagine a loving God that would have any part in such a thing.
+---
+## HENRY:
 And I told him so in my prayers—silent—
+---
+## HENRY:
 because I know I’d be the one in the ground if anyone heard what I thought of God and his taking and taking and taking.
+---
+## HENRY:
 Then I realized the great weight of every grieving father’s prayers that must hit God every night,
+---
+## HENRY:
 and must sound so much like my own.
+---
+## HENRY:
 Sons who lost fathers, husbands without wives, mothers—oh God, the mothers.
+---
+## HENRY:
 All that grief on God’s ear constantly.
+---
+## HENRY:
 Then I felt bad for God.
+---
+## HENRY:
 Which made me laugh.
+---
+## HENRY:
 Which made me feel alive again.
+---
+## HENRY:
 Funny how that worked out, didn’t it?
 ---
 ## JOHN:
@@ -3530,6 +3839,8 @@ Does that a heathen make?
 ---
 ## HENRY:
 No.
+---
+## HENRY:
 Of course not, no.
 ---
 ## JOHN:
@@ -3554,30 +3865,74 @@ I feel enough.
 ---
 ## HENRY:
 I said to feel *again*.
+---
+## HENRY:
 That’s the miracle of it.
-The faeries aren’t real but the feeling is.
+---
+## HENRY:
+The fairies aren’t real but the feeling is.
+---
+## HENRY:
 And it comes to us here, player and groundling alike,
+---
+## HENRY:
 again and again here.
+---
+## HENRY:
 Your favorite story just ended?
+---
+## HENRY:
 Come back tomorrow, we’ll play it again.
+---
+## HENRY:
 Don’t like the story you’re in?
+---
+## HENRY:
 A different one starts in an hour.
+---
+## HENRY:
 Come here, come again, feel here, feel again.
 ---
 ## HENRY:
 History walks here, love is lived here.
+---
+## HENRY:
 Loss is met and wept for and understood and survived here.
+---
+## HENRY:
 And not the first time but every time.
+---
+## HENRY:
 We play love’s first look and life’s last here every day.
+---
+## HENRY:
 And you will see yourself in it, or your fear, or your future before the play’s end.
+---
+## HENRY:
 And you will test your heart against trouble and joy,
+---
+## HENRY:
 and every time you’ll feel a flicker or a fountain of feeling that reminds you that,
+---
+## HENRY:
 yes, you are yet living.
+---
+## HENRY:
 And that is more than God gives you in his ample silence.
+---
+## HENRY:
 And then it ends.
+---
+## HENRY:
 And we players stand up.
+---
+## HENRY:
 And we look at the gathered crowd.
+---
+## HENRY:
 And we bow.
+---
+## HENRY:
 Because the story was told well enough, and it’s time for another.
 ---
 ## JOHN:
@@ -3596,6 +3951,8 @@ She insists.
 ---
 ## HENRY:
 Well…
+---
+## HENRY:
 She was always wiser than you were.
 ---
 ## JOHN:
@@ -3625,6 +3982,8 @@ So, we lose *Two Noble Kinsman*?
 ---
 ## HENRY:
 With Fletcher?
+---
+## HENRY:
 Yes.
 ---
 ## ISAAC:
@@ -3727,6 +4086,8 @@ Shall we?
 ---
 ## HENRY:
 We shall.
+---
+## HENRY:
 We start editing the *un*published plays, of which we’ve got five copies from Master Crane in his fine hand.
 ---
 ## ISAAC:
@@ -3754,6 +4115,8 @@ These escaped the fire under my arm.
 ---
 ## HENRY:
 And thank god they did.
+---
+## HENRY:
 Will’s papers plus our memory can give us a fair version of these.
 ---
 ## CRANE:
@@ -3864,7 +4227,11 @@ In a year or so.
 ---
 ## HENRY:
 All right, let’s not take a decade.
+---
+## HENRY:
 I’d certainly like to live to see the damn thing done.
+---
+## HENRY:
 Are we agreed?
 ---
 template: noise
@@ -3872,14 +4239,18 @@ template: noise
 ---
 ## HENRY:
 Wait.
+---
+## HENRY:
 Did we mention *Pericles*?
+---
+## HENRY:
 Where’s *Pericles*?
 ---
 CRANE
 It’s… out.
 ---
 ## HENRY:
-WHAT.
+WHAT?
 ---
 ## ELIZABETH:
 Henry…
@@ -3912,7 +4283,11 @@ Fine.
 ---
 ## HENRY: (grudgingly)
 All right.
+---
+## HENRY:
 But use the good ink.
+---
+## HENRY:
 There’s a future in that one.
 ---
 ## ELIZABETH:
@@ -3936,6 +4311,8 @@ Look at that.
 ---
 ## HENRY:
 There it is.
+---
+## HENRY:
 There it is, John.
 ---
 ## JOHN:
@@ -3995,7 +4372,11 @@ Yeah cause he’s dead.
 ---
 ## HENRY:
 We are well aware.
+---
+## HENRY:
 We’re his friends.
+---
+## HENRY:
 We’re the ones who started the entire effort.
 ---
 ## MARCUS:
@@ -4039,6 +4420,8 @@ He’s actually quite good at his job.
 ---
 ## HENRY:
 Then he can fix the spelling.
+---
+## HENRY:
 It’s different every page.
 ---
 ## MARCUS:
@@ -4147,6 +4530,8 @@ Like hell we will.
 ---
 ## HENRY:
 We’ll find the money.
+---
+## HENRY:
 Will would hate it, but I know who to go to.
 ---
 ## JOHN:
@@ -4154,6 +4539,8 @@ Not Ben.
 ---
 ## HENRY:
 Not Ben.
+---
+## HENRY:
 Actually, Ben’s a great idea.
 ---
 ## ISAAC:
@@ -4164,15 +4551,29 @@ Ben spent all his money on beer and bail.
 ---
 ## HENRY:
 Yes, but he’s got clout.
+---
+## HENRY:
 He’s the poet laureate.
-If he’d come out in support of this book—the book by his rival—people would start talking.
+---
+## HENRY:
+If he’d come out in support of this book—
+---
+## HENRY:
+—the book by his rival—
+---
+## HENRY:
+—people would start talking.
 ---
 ## JAGGARD:
 That usually helps them start buying.
 ---
 ## HENRY:
 He owes Will. He’ll do this.
+---
+## HENRY:
 You talk to Ben.
+---
+## HENRY:
 Get him to write something, a few lines.
 ---
 ## JOHN:
@@ -4226,6 +4627,8 @@ I will.
 ---
 ## HENRY:
 Yes, Lady Lanier.
+---
+## HENRY:
 And I thank you for seeing me.
 ---
 ## EMILIA:
@@ -4243,6 +4646,8 @@ Oh. Who is we?
 ---
 ## HENRY:
 John and I.
+---
+## HENRY:
 And Will.
 ---
 ## EMILIA:
@@ -4296,6 +4701,8 @@ Preface the book?
 ---
 ## HENRY:
 If he were alive he’d never allow us to bother you, but…
+---
+## HENRY:
 Well, however he broke your heart I hope that the love you showed him once will bare itself again in this hour of need.
 ---
 ## EMILIA:
@@ -4358,6 +4765,8 @@ Let’s keep that between us, shall we?
 ---
 ## HENRY:
 You were a kind of a muse to him.
+---
+## HENRY:
 He wanted to write you into every play.
 ---
 ## EMILIA:
@@ -4370,7 +4779,9 @@ You were the heart of his Beatrice, Rosalind, Lady Macbeth.
 Lady M?
 ---
 ## HENRY:
-Ironically the happiest couple he ever wrote.
+Ironically, the happiest couple he ever wrote.
+---
+## HENRY:
 And even in *Othello* he used your name for Emilia.
 ---
 ## EMILIA:
@@ -4379,6 +4790,8 @@ and then stabbing her to death in the end.
 ---
 ## HENRY:
 He did read your book of poems.
+---
+## HENRY:
 He liked it—
 --
 loved it.
@@ -4388,7 +4801,11 @@ Did he?
 ---
 ## HENRY:
 Oh yes, very much.
+---
+## HENRY:
 Though I think it made him cringe from…curiosity.
+---
+## HENRY:
 The pain in wondering where your lost loves are now.
 ---
 ## EMILIA:
@@ -4485,6 +4902,8 @@ Do I make you blush?
 ---
 ## HENRY:
 I was his best friend.
+---
+## HENRY:
 You do not tell me anything I have not already heard in reverse.
 ---
 ## BEN:
@@ -4527,7 +4946,7 @@ Milady.
 ---
 ## EMILIA:
 “My mistress’ eyes are nothing like the sun;”
-“Coral is far more red than her lips' red;”
+“Coral is far more red than her lips’ red;”
 “If snow be white, why then her breasts are dun;”
 “If hairs be wires, black wires grow on her head.”
 ---
@@ -4819,14 +5238,22 @@ Somehow, I always know the right direction.
 ---
 ## HENRY:
 What? Alice.
+---
+## HENRY:
 Is it bad?
-I knew it. *I knew it.*
+---
+## HENRY:
+I knew it. 
+--
+*I knew it.*
 ---
 ## JOHN:
 Let her read it, Henry.
 ---
 ## HENRY:
 She’s been reading it for ten minutes.
+---
+## HENRY:
 What’s wrong with it?
 ---
 ## ALICE:
@@ -4837,7 +5264,11 @@ She’s reading it carefully.
 ---
 ## HENRY:
 I didn’t think we’d have to write something.
+---
+## HENRY:
 That’s kind of the point of all this.
+---
+## HENRY:
 I speak the speech.
 ---
 ## JOHN:
@@ -4887,6 +5318,8 @@ What’s wrong with you, Ben?
 ---
 ## HENRY:
 Are you well man?
+---
+## HENRY:
 You look not so.
 ---
 ## BEN:
@@ -4963,7 +5396,11 @@ Perhaps some food instead of ale.
 ---
 ## HENRY:
 I know the feeling you’re in, Ben.
+---
+## HENRY:
 I do and I respect it.
+---
+## HENRY:
 But I need to ask if you penned the lines yet?
 ---
 ## BEN:
@@ -5043,8 +5480,14 @@ I couldn’t.
 ---
 ## HENRY:
 “To draw no envy Shakespeare on thy name,”
+---
+## HENRY:
 “Am I thus ample to thy Book, and Fame;”
+---
+## HENRY:
 “While I confesse thy writings to be such,”
+---
+## HENRY:
 “As neither Man, nor Muse, can praise too much.”
 ---
 ## JOHN:
@@ -5073,6 +5516,8 @@ I’m going to be sick.
 ---
 ## HENRY:
 Isaac, did you hear that?
+---
+## HENRY:
 Brilliant.
 ---
 ## BEN: (offstage)
@@ -5259,7 +5704,9 @@ But friends of your husband’s indeed, God rest his soul.
 I hope he does rest in Heaven, he never did on earth.
 ---
 ## HENRY:
-We know that indeed, Milady.
+We know that indeed, milady.
+---
+## HENRY:
 It’s Henry Condell and John Heminges come from London.
 ---
 ## ANNE:
@@ -5333,7 +5780,7 @@ To see that the life you let him live was lived a thousand times over in the sou
 That’s it there?
 ---
 ## HENRY:
-Yes milady.
+Yes, milady.
 ---
 ## ANNE:
 Susannah.
@@ -5343,7 +5790,7 @@ Ben Jonson wrote that?
 About Will?
 ---
 ## HENRY:
-Yes milady.
+Yes, milady.
 ---
 ## JOHN:
 And with minimal coercion.
@@ -5370,8 +5817,14 @@ All right, girl, enough.
 ---
 ## HENRY:
 Oh no, my dear, no.
+---
+## HENRY:
 If you read it you’ll see he wrote so often of daughters.
+---
+## HENRY:
 Heroines, great loves, great loss.
+---
+## HENRY:
 Daughters all.
 ---
 ## JOHN:
