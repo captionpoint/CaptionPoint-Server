@@ -25,13 +25,13 @@
 
         // This fires before remark captures keystroke
         $("body").keyup(function(event) {
-          var currentSlideNumber = Number.parseInt(window.location.href.split('#')[1]);
+          var currentSlideNumber = Number.parseInt(window.location.hash.match(/\d+/) | 0[1]);
           var newSlideNumber = 0;
 
           console.log("We are on slide " + currentSlideNumber);
 
           clearInterval(interval);
-
+          // if you type any arrow or space bar, send redirect to the client, and set status every three seconds
           if (event.which == 39 || event.which == 32 || event.which == 38 || event.which == 37 || event.which == 40) {
             socket.emit('redirect', currentSlideNumber);
             console.log("We are redirecting to slide " + currentSlideNumber);
@@ -40,8 +40,8 @@
               broadcastStatus(currentSlideNumber);
             }, 3000);
           }
-
-          if (event.which == X) {
+          // if you type "s", resend the status
+          if (event.which == 83) {
             interval = setInterval(function() {
               broadcastStatus(currentSlideNumber);
             }, 3000);
