@@ -2,24 +2,40 @@
 <html>
   <head>
     <title>Client Page</title>
-    <style>
-      * { margin: 0; padding: 0; box-sizing: border-box; }
-      body { font: 13px Helvetica, Arial; }
-      #messages { list-style-type: none; margin: 0; padding: 0; }
-      #messages li { padding: 5px 10px; }
-      #messages li:nth-child(odd) { background: #eee; }
-    </style>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
   </head>
   <body>
+    <textarea id="source">
+
+    </textarea>
     <ul id="messages"></ul>
     <script src="https://code.jquery.com/jquery-1.11.1.js"></script>
     <script src="/socket.io/socket.io.js"></script>
+    <script src="js/remark.js"></script>
     <script>
       $(document).ready(function() {
         var socket = io();
-        socket.on('caption message', function(msg){
+        socket.on('next', function(msg){
           console.log('message: ' + msg);
+          slideshow.gotoNextSlide();
         });
+        socket.on('previous', function(msg){
+          console.log('message: ' + msg);
+          slideshow.gotoPreviousSlide();
+        });
+        socket.on('redirect', function(msg){
+          console.log('Redirecting to Slide: ' + msg);
+          slideshow.gotoSlide(msg);
+        });
+      });
+    </script>
+    <script>
+      var slideshow = remark.create({
+        sourceUrl: 'will.md',
+        ratio: '16:9',
+        navigation: {
+          scroll: false,
+        },
       });
     </script>
   </body>

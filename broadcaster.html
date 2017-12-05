@@ -1,29 +1,59 @@
 <!doctype html>
 <html>
   <head>
-    <title>Server Page</title>
-    <style>
-      * { margin: 0; padding: 0; box-sizing: border-box; }
-      body { font: 13px Helvetica, Arial; height: 500px; }
-      #messages { list-style-type: none; margin: 0; padding: 0; }
-      #messages li { padding: 5px 10px; }
-      #messages li:nth-child(odd) { background: #eee; }
-    </style>
+    <title>Broadcast Page</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
   </head>
   <body>
-    <h1>The Server Page</h1>
-    <p>Type some stuff and check out the client</p>
+    <textarea id="source">
+
+    </textarea>
+
+
     <script src="https://code.jquery.com/jquery-1.11.1.js"></script>
     <script src="/socket.io/socket.io.js"></script>
+    <script src="js/remark.js"></script>
     <script>
       $(document).ready(function() {
-        console.log("doc ready!");
+        function getSlideNumber(slide) {
+          slideElement = slide.getSlideIndex() + 1;
+          return slideElement;
+        }
 
         var socket = io();
-        $("body").on("click", function() {
-          console.log("click received!");
-          socket.emit('caption message', "This is a test message");
+
+        // This fires before remark captures keystroke
+        $("body").keydown(function(event) {
+          var currentSlideNumber = Number.parseInt(window.location.href.split('#')[1]);
+          var newSlideNumber = 0;
+          console.log("We are on slide " + currentSlideNumber);
+
+          if (event.which == 39 || event.which == 32 || event.which == 38) {
+            newSlideNumber = currentSlideNumber + 1;
+            socket.emit('redirect', newSlideNumber);
+            console.log("We are redirecting to slide " + newSlideNumber);
+          }
+          // if (event.which == 37 || event.which == 40) {
+          //   socket.emit('previous', "We are on slide " + slideNumber);
+          //   console.log("We are on slide " + slideNumber);
+          // }
+          if (event.which == 37 || event.which == 40) {
+            newSlideNumber = currentSlideNumber - 1;
+            socket.emit('redirect', newSlideNumber);
+            console.log("We are redirecting to slide " + newSlideNumber);
+          }
         });
+
+      });
+    </script>
+
+    <script>
+      var slideshow = remark.create({
+        sourceUrl: 'will.md',
+        ratio: '16:9',
+        navigation: {
+          scroll: false,
+        },
       });
     </script>
   </body>
