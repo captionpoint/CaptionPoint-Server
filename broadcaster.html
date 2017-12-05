@@ -15,35 +15,38 @@
     <script src="js/remark.js"></script>
     <script>
       $(document).ready(function() {
-        function getSlideNumber(slide) {
-          slideElement = slide.getSlideIndex() + 1;
-          return slideElement;
-        }
-
+        var interval;
         var socket = io();
 
+        function broadcastStatus(slideNumber) {
+          console.log("sending status update of " + slideNumber);
+          socket.emit('statusUpdate', slideNumber);
+        }
+
         // This fires before remark captures keystroke
-        $("body").keydown(function(event) {
+        $("body").keyup(function(event) {
           var currentSlideNumber = Number.parseInt(window.location.href.split('#')[1]);
           var newSlideNumber = 0;
+
           console.log("We are on slide " + currentSlideNumber);
 
-          if (event.which == 39 || event.which == 32 || event.which == 38) {
-            newSlideNumber = currentSlideNumber + 1;
-            socket.emit('redirect', newSlideNumber);
-            console.log("We are redirecting to slide " + newSlideNumber);
+          clearInterval(interval);
+
+          if (event.which == 39 || event.which == 32 || event.which == 38 || event.which == 37 || event.which == 40) {
+            socket.emit('redirect', currentSlideNumber);
+            console.log("We are redirecting to slide " + currentSlideNumber);
+
+            interval = setInterval(function() {
+              broadcastStatus(currentSlideNumber);
+            }, 3000);
           }
-          // if (event.which == 37 || event.which == 40) {
-          //   socket.emit('previous', "We are on slide " + slideNumber);
-          //   console.log("We are on slide " + slideNumber);
-          // }
-          if (event.which == 37 || event.which == 40) {
-            newSlideNumber = currentSlideNumber - 1;
-            socket.emit('redirect', newSlideNumber);
-            console.log("We are redirecting to slide " + newSlideNumber);
+
+          if (event.which == X) {
+            interval = setInterval(function() {
+              broadcastStatus(currentSlideNumber);
+            }, 3000);
           }
         });
-
       });
     </script>
 

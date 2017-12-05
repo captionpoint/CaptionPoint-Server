@@ -15,17 +15,18 @@
     <script>
       $(document).ready(function() {
         var socket = io();
-        socket.on('next', function(msg){
-          console.log('message: ' + msg);
-          slideshow.gotoNextSlide();
-        });
-        socket.on('previous', function(msg){
-          console.log('message: ' + msg);
-          slideshow.gotoPreviousSlide();
-        });
+
         socket.on('redirect', function(msg){
           console.log('Redirecting to Slide: ' + msg);
           slideshow.gotoSlide(msg);
+        });
+
+        socket.on('statusUpdate', function(msg) {
+          console.log('Receiving status update: ' + msg);
+          var currentSlideNumber = Number.parseInt(window.location.href.split('#')[1]);
+          if(currentSlideNumber !== msg) {
+            slideshow.gotoSlide(msg);
+          }
         });
       });
     </script>

@@ -21,6 +21,11 @@ io.on('connection', function(socket){
     io.emit('redirect', msg);
   });
 
+  socket.on('statusUpdate', function(msg){
+    console.log('broadcasting "status" message');
+    io.emit('statusUpdate', msg);
+  });
+
   socket.on('disconnect', function(){
     console.log('a user has disconnected');
   });
