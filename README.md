@@ -17,4 +17,4 @@
 - key "s" now sends status to the client, allowing the broadcaster to jump to a slide and then send status without advancing
 - to start a basic remote server using ngrok: ngrok http 3000 - will provide a remote URL to dial in to. Remember to add /client to the end of the URL
 - for a friendlier URL, use: ngrok http -region=us -hostname=join.captionpoint.com 3000 (and tell them to go to /client)
-- 
+- for dirty local connection: connect to same wifi. 

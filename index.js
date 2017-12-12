@@ -25,6 +25,12 @@ io.on('connection', function(socket){
     console.log('broadcasting "status" message');
     io.emit('statusUpdate', msg);
   });
+  socket.on('blackout', function(msg){
+    io.emit('blackout', msg);
+  });
+  socket.on('fullscreen', function(msg){
+    io.emit('fullscreen', msg);
+  });
 
   socket.on('disconnect', function(){
     console.log('a user has disconnected');

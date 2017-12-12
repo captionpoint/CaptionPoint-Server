@@ -27,6 +27,7 @@
         $("body").keyup(function(event) {
           var currentSlideNumber = Number.parseInt(window.location.hash.match(/\d+/) | 0[1]);
           var newSlideNumber = 0;
+          var bKey = 'b';
 
           console.log("We are on slide " + currentSlideNumber);
 
@@ -46,6 +47,14 @@
             interval = setInterval(function() {
               broadcastStatus(currentSlideNumber);
             }, 3000);
+          }
+          if (event.which == 66) {
+            console.log("sending a B");
+            socket.emit('blackout', bKey);
+          }
+          if (event.which == 70) {
+            console.log("sending an F");
+            socket.emit('fullscreen', event.which == 70);
           }
         });
       });

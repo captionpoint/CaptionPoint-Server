@@ -21,6 +21,14 @@
           slideshow.gotoSlide(msg);
         });
 
+        socket.on('blackout', function(msg){
+          console.log("blacking out " + msg);
+          var press = $.Event("keydown");
+          press.which = 66;
+          $(window).trigger(press);
+
+        });
+
         socket.on('statusUpdate', function(msg) {
           console.log('Receiving status update: ' + msg);
           var currentSlideNumber = Number.parseInt(window.location.href.split('#')[1]);
