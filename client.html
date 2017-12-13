@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
   <head>
-    <title>Client Page</title>
+    <title>Client | CaptionPoint</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
   </head>
   <body>
@@ -13,20 +13,35 @@
     <script src="/socket.io/socket.io.js"></script>
     <script src="js/remark.js"></script>
     <script>
+      var slideshow = remark.create({
+        sourceUrl: 'will.md',
+        ratio: '16:9',
+        navigation: {
+          scroll: false,
+        },
+      });
+
+      var keyB = 66;
+      var keyF = 60;
+      var keyS = 83;
+      var space = 32;
+      var arrowLeft = 37;
+      var arrowUp = 38;
+      var arrowRight = 39;
+      var arrowDown = 40;
+      var redirectKeys = [space, arrowUp, arrowDown, arrowLeft, arrowRight];
+
       $(document).ready(function() {
         var socket = io();
 
         socket.on('redirect', function(msg){
-          console.log('Redirecting to Slide: ' + msg);
+          console.log('Redirecting to slide: ' + msg);
           slideshow.gotoSlide(msg);
         });
 
         socket.on('blackout', function(msg){
-          console.log("blacking out " + msg);
-          var press = $.Event("keydown");
-          press.which = 66;
-          $(window).trigger(press);
-
+          console.log('Triggering blackout event: ' + msg);
+          slideshow.toggleBlackout();
         });
 
         socket.on('statusUpdate', function(msg) {
@@ -36,15 +51,6 @@
             slideshow.gotoSlide(msg);
           }
         });
-      });
-    </script>
-    <script>
-      var slideshow = remark.create({
-        sourceUrl: 'will.md',
-        ratio: '16:9',
-        navigation: {
-          scroll: false,
-        },
       });
     </script>
   </body>

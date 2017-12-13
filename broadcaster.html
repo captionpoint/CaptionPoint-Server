@@ -1,65 +1,15 @@
 <!doctype html>
 <html>
   <head>
-    <title>Broadcast Page</title>
+    <title>Broadcaster | CaptionPoint</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
   </head>
   <body>
-    <textarea id="source">
-
-    </textarea>
-
+    <textarea id="source"></textarea>
 
     <script src="https://code.jquery.com/jquery-1.11.1.js"></script>
     <script src="/socket.io/socket.io.js"></script>
     <script src="js/remark.js"></script>
-    <script>
-      $(document).ready(function() {
-        var interval;
-        var socket = io();
-
-        function broadcastStatus(slideNumber) {
-          console.log("sending status update of " + slideNumber);
-          socket.emit('statusUpdate', slideNumber);
-        }
-
-        // This fires before remark captures keystroke
-        $("body").keyup(function(event) {
-          var currentSlideNumber = Number.parseInt(window.location.hash.match(/\d+/) | 0[1]);
-          var newSlideNumber = 0;
-          var bKey = 'b';
-
-          console.log("We are on slide " + currentSlideNumber);
-
-          clearInterval(interval);
-          // if you type any arrow or space bar, send redirect to the client, and set status every three seconds
-          if (event.which == 39 || event.which == 32 || event.which == 38 || event.which == 37 || event.which == 40) {
-            socket.emit('redirect', currentSlideNumber);
-            console.log("We are redirecting to slide " + currentSlideNumber);
-
-            interval = setInterval(function() {
-              broadcastStatus(currentSlideNumber);
-            }, 3000);
-          }
-          // if you type "s", resend the status
-          if (event.which == 83) {
-            socket.emit('redirect', currentSlideNumber);
-            interval = setInterval(function() {
-              broadcastStatus(currentSlideNumber);
-            }, 3000);
-          }
-          if (event.which == 66) {
-            console.log("sending a B");
-            socket.emit('blackout', bKey);
-          }
-          if (event.which == 70) {
-            console.log("sending an F");
-            socket.emit('fullscreen', event.which == 70);
-          }
-        });
-      });
-    </script>
-
     <script>
       var slideshow = remark.create({
         sourceUrl: 'will.md',
@@ -67,6 +17,90 @@
         navigation: {
           scroll: false,
         },
+      });
+
+      var slideStatus = {
+        slideNumber: 0,
+        blackout: false,
+        fullscreen: false
+      }
+
+      $(document).ready(function() {
+        var interval;
+        var socket = io();
+
+        var keyB = 66;
+        var keyF = 60;
+        var keyS = 83;
+        var space = 32;
+        var arrowLeft = 37;
+        var arrowUp = 38;
+        var arrowRight = 39;
+        var arrowDown = 40;
+        var redirectKeys = [space, arrowUp, arrowDown, arrowLeft, arrowRight];
+
+        function broadcastStatus(slideNumber) {
+          console.log("sending status update of " + slideStatus.slideNumber);
+          socket.emit('statusUpdate', slideStatus);
+        }
+
+        // This fires before remark captures keystroke
+        $("body").keyup(function(event) {
+          var currentSlideNumber = Number.parseInt(window.location.hash.match(/\d+/) | 0[1]);
+          console.log("We are on slide " + currentSlideNumber);
+
+          clearInterval(interval);
+
+          // if you type any arrow key or the space bar,
+          // send redirect to the client,
+          // and set status every three seconds
+          if (redirectKeys.includes(event.which)) {
+            slideStatus.slideNumber = currentSlideNumber;
+v
+            socket.emit('redirect', slideStatus);
+            console.log("We are redirecting to slide " + slideStatus.slideNumber);
+
+            interval = setInterval(function() {
+              broadcastStatus(slideStatus);
+            }, 3000);
+          }
+
+          // on "s" keyup, resend the current status
+          if (event.which == keyS) {
+            slideStatus.slideNumber = currentSlideNumber;
+
+            socket.emit('redirect', slideStatus);
+            interval = setInterval(function() {
+              broadcastStatus(slideStatus);
+            }, 3000);
+          }
+
+          // on "b" keyup, send the b keypress for blackout
+          if (event.which == keyB) {
+            console.log("broadcasting a b keypress");
+
+            if (slideStatus.blackout = true) {
+              slideStatus.blackout = false;
+            else
+              slideStatus.blackout = true;
+            }
+
+            socket.emit('blackout', slideStatus);
+          }
+
+          // on "f" keyup, send the f keypress for fullscreen
+          if (event.which == keyF) {
+            console.log("broadcasting an f keypress");
+
+            if (slideStatus.fullscreen = true) {
+              slideStatus.fullscreen = false;
+            else
+              slideStatus.fullscreen = true;
+            }
+
+            socket.emit('fullscreen', slideStatus);
+          }
+        });
       });
     </script>
   </body>
