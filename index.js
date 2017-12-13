@@ -7,37 +7,37 @@ io.on('connection', function(socket){
   console.log('a user is connected');
 
   socket.on('next', function(msg){
-    console.log('broadcasting "next" message: ' + msg);
+    console.log('broadcasting "next" message: ' + JSON.stringify(msg));
     io.emit('next', msg);
   });
 
   socket.on('previous', function(msg){
-    console.log('broadcasting "previous" message: ' + msg);
+    console.log('broadcasting "previous" message: ' + JSON.stringify(msg));
     io.emit('previous', msg);
   });
 
   socket.on('redirect', function(msg){
-    console.log('broadcasting "redirect" message: ' + msg);
+    console.log('broadcasting "redirect" message: ' + JSON.stringify(msg));
     io.emit('redirect', msg);
   });
 
   socket.on('statusUpdate', function(msg){
-    console.log('broadcasting "status" message: ' + msg);
+    console.log('broadcasting "status" message: ' + JSON.stringify(msg));
     io.emit('statusUpdate', msg);
   });
 
   socket.on('blackout', function(msg){
-    console.log('broadcasting "blackout" message: ' + msg);
+    console.log('broadcasting "blackout" message: ' + JSON.stringify(msg));
     io.emit('blackout', msg);
   });
 
   socket.on('fullscreen', function(msg){
-    console.log('broadcasting "fullscreen" message: ' + msg);
+    console.log('broadcasting "fullscreen" message: ' + JSON.stringify(msg));
     io.emit('fullscreen', msg);
   });
 
   socket.on('disconnect', function(msg){
-    console.log('broadcasting "disconnect" message: ' + msg);
+    console.log('broadcasting "disconnect" message: ' + JSON.stringify(msg));
     console.log('a user has disconnected');
   });
 });

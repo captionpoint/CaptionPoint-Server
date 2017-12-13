@@ -2,13 +2,13 @@
 <html>
   <head>
     <title>Client | CaptionPoint</title>
+    <link rel="manifest" href="/client_manifest.json">
     <link rel="stylesheet" type="text/css" href="css/style.css">
   </head>
   <body>
-    <textarea id="source">
-
-    </textarea>
+    <textarea id="source"></textarea>
     <ul id="messages"></ul>
+
     <script src="https://code.jquery.com/jquery-1.11.1.js"></script>
     <script src="/socket.io/socket.io.js"></script>
     <script src="js/remark.js"></script>
@@ -21,34 +21,38 @@
         },
       });
 
-      var keyB = 66;
-      var keyF = 60;
-      var keyS = 83;
-      var space = 32;
-      var arrowLeft = 37;
-      var arrowUp = 38;
-      var arrowRight = 39;
-      var arrowDown = 40;
-      var redirectKeys = [space, arrowUp, arrowDown, arrowLeft, arrowRight];
-
       $(document).ready(function() {
         var socket = io();
 
-        socket.on('redirect', function(msg){
-          console.log('Redirecting to slide: ' + msg);
-          slideshow.gotoSlide(msg);
+        socket.on('redirect', function(slideshowState){
+          console.log('Redirecting to slide: ' + slideshowState.slideNumber);
+          slideshow.gotoSlide(slideshowState.slideNumber);
         });
 
-        socket.on('blackout', function(msg){
-          console.log('Triggering blackout event: ' + msg);
+        socket.on('blackout', function(slideshowState){
+          console.log('Triggering blackout event: ' + slideshowState.blackout);
           slideshow.toggleBlackout();
         });
 
-        socket.on('statusUpdate', function(msg) {
-          console.log('Receiving status update: ' + msg);
+        socket.on('fullscreen', function(slideshowState){
+          console.log('Triggering fullscreen event: ' + slideshowState.fullscreen);
+          slideshow.toggleFullscreen();
+        });
+
+        socket.on('statusUpdate', function(slideshowState) {
+          console.log('Receiving status update: ' + JSON.stringify(slideshowState));
           var currentSlideNumber = Number.parseInt(window.location.href.split('#')[1]);
-          if(currentSlideNumber !== msg) {
-            slideshow.gotoSlide(msg);
+
+          if(currentSlideNumber !== slideshowState.slideNumber) {
+            slideshow.gotoSlide(slideshowState.slideNumber);
+          }
+
+          if(slideshowState.blackout) {
+            slideshow.toggleBlackout();
+          }
+
+          if(slideshowState.fullscreen) {
+            slideshow.toggleFullscreen();
           }
         });
       });

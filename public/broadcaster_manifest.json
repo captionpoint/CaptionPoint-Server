@@ -1,0 +1,7 @@
+{
+  "short_name": "CaptionPoint",
+  "name": "CaptionPoint Broadcaster Application",
+  "start_url": "/broadcaster.html",
+  "display": "standalone",
+  "orientation": "landscape"
+}

@@ -1,0 +1,7 @@
+{
+  "short_name": "CaptionPoint",
+  "name": "CaptionPoint Client Application",
+  "start_url": "/client.html",
+  "display": "fullscreen",
+  "orientation": "landscape"
+}
