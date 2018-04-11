@@ -2,7 +2,44 @@
 <html>
   <head>
     <title>Client Page</title>
+
+    <meta name="apple-mobile-web-app-capable" content="yes">
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57px.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72px.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114px.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144px.png" />
+    <!-- MOVE THIS TO MAIN CSS? -->
+    <style type="text/css">
+      .remark-visible {
+        background: black;
+      }
+      .remark-slide {
+        color: red;
+      }
+      html.remark-container, body.remark-container {
+        background: black;
+      }
+      ::-webkit-scrollbar {
+          width: 6px;
+          height: 6px;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #2A65B0;
+        border: 0px none #2A65B0;
+        border-radius: 50px;
+      }
+      ::-webkit-scrollbar-button {
+        width: 0px;
+        height: 0px;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #4c88e8;
+      }
+      ::-webkit-scrollbar-thumb:active {
+        background: #4a7ccc;
+      }
+  </style>
   </head>
   <body>
     <textarea id="source">
@@ -31,7 +68,7 @@
     </script>
     <script>
       var slideshow = remark.create({
-        sourceUrl: 'will.md',
+        sourceUrl: 'beauty.md',
         ratio: '16:9',
         navigation: {
           scroll: false,
