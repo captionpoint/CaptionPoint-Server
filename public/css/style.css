@@ -82,30 +82,9 @@
 
 /*POSSIBLE CHARACTER COLORS - change 'names' to match Character names*/
 
-      h2[id*="mary-"] {
-        color: #7f5e5e;
+      h2[id*="humayun-"] {
+        color: #00b7bf;
       }
-      h2[id*="marty-"] {
-        color: #CC4E5C;
-      }
-      h2[id*="sal-"] {
-        color: #a68b59;
-      }
-      h2[id*="brian-"] {
-        color: #7f5e6b;
-      }
-      h2[id*="philip-"] {
-        color: #9F5F9F;
-      }
-      h2[id*="andrea-"] {
-        color: #6f5e7f;
-      }
-      h2[id*="bo-"] {
-        color: #D4C33D;
-      }
-      h2[id*="jerry-"] {
-        color: #56809F;
-      }
-      h2[id*="emily-"] {
-        color: #71A75B;
+      h2[id*="babur-"] {
+        color: #bfbf00;
       }

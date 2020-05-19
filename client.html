@@ -1,15 +1,46 @@
 <!doctype html>
 <html>
   <head>
-    <title>Client Page</title>
+    <title>Guards at the Taj</title>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57px.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72px.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114px.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144px.png" />
+    <style>
+      .remark-visible {
+        background: black;
+      }
+      .remark-slide {
+        /*super dark*/
+        /*color: #033004;*/
+        /*middle dark*/
+        /*color: #007f00;*/
+        /*less dark*/
+        color: #00bf00;
+
+      }
+      html.remark-container, body.remark-container {
+        background: black;
+      }
+    </style>
+    <script>
+      $(document).ready(function(){
+        if (window.navigator.standalone == true) {
+          $("meta[name='apple-mobile-web-app-status-bar-style']").remove();
+        }
+      });
+      
+    </script>
   </head>
   <body>
     <textarea id="source">
 
     </textarea>
     <ul id="messages"></ul>
-    <script src="https://code.jquery.com/jquery-1.11.1.js"></script>
+    <script src="js/jQuery-3.3.1.js"></script>
     <script src="/socket.io/socket.io.js"></script>
     <script src="js/remark.js"></script>
     <script>
@@ -40,10 +71,11 @@
     </script>
     <script>
       var slideshow = remark.create({
-        sourceUrl: 'will.md',
+        sourceUrl: 'guards.md',
         ratio: '16:9',
         navigation: {
           scroll: false,
+          touch: false
         },
       });
     </script>
