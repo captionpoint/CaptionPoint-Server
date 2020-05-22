@@ -82,9 +82,24 @@
 
 /*POSSIBLE CHARACTER COLORS - change 'names' to match Character names*/
 
-      h2[id*="humayun-"] {
+      h2[id*="mr-flip-"] {
         color: #00b7bf;
       }
-      h2[id*="babur-"] {
+      h2[id*="matthew-"] {
+        color: #bfbf00;
+      }
+      h2[id*="amalia-"] {
+        color: #862d86;
+      }
+      h2[id*="judith-"] {
+        color: #bfbf00;
+      }
+      h2[id*="pinhead-"] {
+        color: #bfbf00;
+      }
+      h2[id*="the-human-salamander-"] {
+        color: #bfbf00;
+      }
+      h2[id*="the-girl-"] {
         color: #bfbf00;
       }
