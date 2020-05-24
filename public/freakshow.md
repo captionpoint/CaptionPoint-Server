@@ -103,7 +103,7 @@ You are wondering if I have ever had sexual intercourse.
 Of course.
 ---
 ## AMALIA:
-If it has occurred to you already, having only just met me, 
+If it has occurred to you already, having only just met me,
 ---
 ## AMALIA:
 don’t you think it would have occurred to someone before you?
@@ -124,7 +124,7 @@ My face is even beautiful.
 I know this.
 ---
 ## AMALIA:
-People are not afraid of flattering me or giving me a swelled head, 
+People are not afraid of flattering me or giving me a swelled head,
 ---
 ## AMALIA:
 because I have no arms or legs.
@@ -250,7 +250,7 @@ I would never be blamed- I have no arms or legs.
 I think the old farmer who discovered us would have a heart attack and die on the spot.
 ---
 ## AMALIA:
-Thinking he’d have to chase off a pair of young lovers 
+Thinking he’d have to chase off a pair of young lovers
 ---
 ## AMALIA:
 and instead finding a man and a torso.
@@ -286,7 +286,7 @@ I am washed.
 I am well taken care of.
 ---
 ## AMALIA:
-But there are some days, sitting here silent hour after hour being stared at, 
+But there are some days, sitting here silent hour after hour being stared at,
 ---
 ## AMALIA:
 when I would gladly commit murder to be able to scratch my nose.
@@ -310,7 +310,7 @@ Just what you’d think.
 You can fill in the details.
 ---
 ## AMALIA:
-Rich man in some town we passed through got that idea about me, 
+Rich man in some town we passed through got that idea about me,
 ---
 ## AMALIA:
 the one we discussed earlier.
@@ -367,10 +367,10 @@ He learned something about himself, something he didn’t want to know.
 I certainly would never have guessed it was in him.
 ---
 ## AMALIA:
-After it happened I knew I shouldn’t have been surprised, 
+After it happened I knew I shouldn’t have been surprised,
 ---
 ## AMALIA:
-but I really believed that Matthew was one human being 
+but I really believed that Matthew was one human being
 ---
 ## AMALIA:
 without that astounding capacity for cruelty.
@@ -382,7 +382,7 @@ I am in love with the Pinhead.
 That is the tragedy of my life.
 ---
 ## AMALIA:
-And perhaps it is also the tragedy of the man who cleans out the animals’ cages, 
+And perhaps it is also the tragedy of the man who cleans out the animals’ cages,
 ---
 ## AMALIA:
 but I don’t think so.
@@ -409,10 +409,10 @@ Jesus, he practically bursts with it.
 One day he will notice the cruelty of an absent God and he will leave.
 ---
 ## AMALIA:
-I know the Pinhead has the capacity for sexual intercourse 
+I know the Pinhead has the capacity for sexual intercourse
 ---
 ## AMALIA:
-because they have to put something in his food 
+because they have to put something in his food
 ---
 ## AMALIA:
 to keep him from playing with his thing while the audience is here.
@@ -476,7 +476,7 @@ The Pinhead…
 Aquaboy, The Human Salamander…
 ---
 ## AMALIA:
-Kept in water from twelve to fourteen, 
+Kept in water from twelve to fourteen,
 ---
 ## AMALIA:
 who wouldn’t turn some luminous pale shade of green, eyes growing bigger, breathing slowed?
@@ -530,7 +530,7 @@ Drain this tank and you pour my soul out on the floor.
 Isn’t he beautiful?
 ---
 ## AMALIA:
-You’d never guess he showed up here just an undernourished boy 
+You’d never guess he showed up here just an undernourished boy
 ---
 ## AMALIA:
 with a bit of extra skin between fingers and toes.
@@ -602,7 +602,7 @@ You love me and you hate me.
 You blame me for their deformities because I am the only one standing up here unscathed.
 ---
 ## MR FLIP:
-It’s as though I somehow caused the pain and suffering and maimed lives 
+It’s as though I somehow caused the pain and suffering and maimed lives
 ---
 ## MR FLIP:
 just so I could run my fantastic little show.
@@ -611,7 +611,7 @@ just so I could run my fantastic little show.
 But you also love me because I’m the only one you can look at without looking away.
 ---
 ## MR FLIP:
-You do not fear me as you fear them, as you fear *being* one of them, 
+You do not fear me as you fear them, as you fear *being* one of them,
 ---
 ## MR.FLIP:
 as you fear waking up one of them, drool running out of your mouth eyes glazed *but still alive inside*.
@@ -644,7 +644,7 @@ I’m just some guy who happens to be the luckiest man in the world.
 I can’t believe she lets me remain in her presence, even, but that she lets me love her….
 ---
 ## MATTHEW:
-If you were to kidnap me and take me away from this place 
+If you were to kidnap me and take me away from this place
 ---
 ## MATTHEW:
 and tell me all this never happened, I couldn’t argue with you.
@@ -740,7 +740,7 @@ Ah&#8288;—that’s when nightdresses were nightdresses.
 When a nightdress meant a certain state of undress.
 ---
 ## MR FLIP:
-Nowadays a nightdress is apt to be the most decent thing in a woman’s wardrobe, 
+Nowadays a nightdress is apt to be the most decent thing in a woman’s wardrobe,
 ---
 ## MR FLIP:
 such is the state of bitter turpitude to which we’ve fallen.
@@ -903,7 +903,7 @@ Oh, it was hard times, too many mouths to feed, we had to sell the freak baby.
 Sounds better on the conscience than, “*We drowned that thing*.”
 ---
 ## MR FLIP:
-Originally, I had a man to scour the countryside, looking for freaks, the outlandish, 
+Originally, I had a man to scour the countryside, looking for freaks, the outlandish,
 ---
 ## MR.FLIP:
 the physical phenomena lurking away in those backwoods backwater towns.
@@ -999,7 +999,7 @@ And I have mutated.
 Into this half-human creature.
 ---
 ## THE HUMAN SALAMANDER:
-Because just a bit of skin between the fingers and toes is fine for back home 
+Because just a bit of skin between the fingers and toes is fine for back home
 ---
 ## THE HUMAN SALAMANDER:
 but it doesn’t keep the crowd leaning in for a glimpse.
@@ -1125,7 +1125,7 @@ They think I’m waiting to catch a fly.
 Hardest part of the job, learning how to do that.
 ---
 ## THE HUMAN SALAMANDER:
-I had to practice for six months after the people had gone 
+I had to practice for six months after the people had gone
 ---
 ## THE HUMAN SALAMANDER:
 before I could do it in front of them.
@@ -1206,7 +1206,7 @@ And I heard of another place so cold they live in snow.
 Blocks of snow piled up to give shelter from the wind.
 ---
 ## MATTHEW:
-Everything they wear is the skins of animals, 
+Everything they wear is the skins of animals,
 ---
 ## MATTHEW:
 so they look like great furry beasts themselves.
@@ -1266,7 +1266,7 @@ These Laplanders were human beings, not beasts.
 Not so different from you and me.
 ---
 ## MATTHEW:
-Perhaps not outwardly, but with a different interior circulatory system, 
+Perhaps not outwardly, but with a different interior circulatory system,
 ---
 ## MATTHEW:
 different physical requirements for life and breath&#8288;—
@@ -1371,15 +1371,15 @@ Chez Monsieur le Cure, digue donda dondaine
 ---
 class: aside
 template: song
-## JUDITH 
-## & 
+## JUDITH
+## &
 ## PINHEAD:
 Chez Monsieur le Cure, digue donda dondaine
 ---
 class: aside
 template: song
-## JUDITH 
-## & 
+## JUDITH
+## &
 ## PINHEAD:
 Son amant vient la voir
 ---
@@ -1443,36 +1443,36 @@ Elle l’avait oublie, digue donda donde
 ---
 class: aside
 template: song
-## JUDITH 
-## & 
+## JUDITH
+## &
 ## PINHEAD:
 Voila la triste histoire, voila la triste histoire
 ---
 class: aside
 template: song
-## JUDITH 
-## & 
+## JUDITH
+## &
 ## PINHEAD:
 Les rats l’avaient mange
 ---
 class: aside
 template: song
-## JUDITH 
-## & 
+## JUDITH
+## &
 ## PINHEAD:
 Digue donda dondaine
 ---
 class: aside
 template: song
-## JUDITH 
-## & 
+## JUDITH
+## &
 ## PINHEAD:
 Les rats l’avaient mange
 ---
 class: aside
 template: song
-## JUDITH 
-## & 
+## JUDITH
+## &
 ## PINHEAD:
 Digue donda dondaine
 ---
@@ -1730,7 +1730,7 @@ Yes, laugh at me.
 I’m an idiot.
 ---
 ## THE GIRL:
-Going to be whipped sure for sneaking out 
+Going to be whipped sure for sneaking out
 ---
 ## THE GIRL:
 to declare my love to a circus freak in the middle of the night.
@@ -1754,7 +1754,7 @@ How do you know?
 I suppose this happens to you all the time.
 ---
 ## THE GIRL:
-Farm girls sneak away from their homes in every town you pass through, 
+Farm girls sneak away from their homes in every town you pass through,
 ---
 ## THE GIRL:
 just to pay homage at your tank.
@@ -1808,7 +1808,7 @@ Being a half-human mutation, I breathe through lungs and gills.
 But the one system would be insufficient without the other.
 ---
 ## THE HUMAN SALAMANDER:
-Just as I cannot fully breathe when completely submerged in water, 
+Just as I cannot fully breathe when completely submerged in water,
 ---
 ## THE HUMAN SALAMANDER:
 so I cannot fully breathe when completely out of the water.
@@ -2138,7 +2138,7 @@ I know there are those that do, but I myself think that is disgusting.
 A mouth is for kissing.
 ---
 ## AMALIA:
-And were you to kiss me, on my mouth, on my warm pink open mouth, 
+And were you to kiss me, on my mouth, on my warm pink open mouth,
 ---
 ## AMALIA:
 you would become intoxicated.
@@ -2147,7 +2147,7 @@ you would become intoxicated.
 Kissing me, you would become intoxicated.
 ---
 ## AMALIA:
-And after that, after one kiss or two, you could not fail 
+And after that, after one kiss or two, you could not fail
 ---
 ## AMALIA:
 to be so intoxicated by my kisses that you would have to lift my skirt.
@@ -2498,7 +2498,7 @@ their ever-changing, ever-twisting, shimmering permutations.
 What’s that supposed to mean?
 ---
 ## MR FLIP:
-Almost nineteen hundred years after his death and incontrovertible resurrection, 
+Almost nineteen hundred years after his death and incontrovertible resurrection,
 ---
 ## MR FLIP:
 Jesus himself has whispered in some local deacon’s ear that our little show is a sin.
@@ -2596,7 +2596,7 @@ Make you good money.
 Here, take.
 ---
 ## JUDITH:
-Take the freak baby in the magic glamor caravan 
+Take the freak baby in the magic glamor caravan
 ---
 ## JUDITH:
 so we never have to look at the sin we’ve spawned.
@@ -2767,7 +2767,7 @@ When I was sick and almost dying, she chewed the meat for me and put it in my mo
 My own mother would not have&#8288;—did not know how to love a child like that.
 ---
 ## JUDITH:
-And when he had me tempered in the forge, when he’d made me her child, 
+And when he had me tempered in the forge, when he’d made me her child,
 ---
 ## JUDITH:
 when it was time to put me in the cage, he kicked her out onto the streets.
@@ -3073,7 +3073,7 @@ I married Bill Parker, you remember him last year.
 I had a baby that was not right.
 ---
 ## MR FLIP: <i>(reading)</i>
-Bill took off and left me now they’re saying I was touched by the devil 
+Bill took off and left me now they’re saying I was touched by the devil
 ---
 ## MR FLIP: <i>(reading)</i>
 and they want to take my poor darling who is so precious to me.
@@ -3112,7 +3112,7 @@ How do you&#8288;—
 No he. No she.
 ---
 ## JUDITH:
-Also, though, no “it.” 
+Also, though, no “it.”
 ---
 ## JUDITH:
 She’ll be a good little mother.
@@ -3361,7 +3361,7 @@ You could hardly tell it was the same man.
 He looked just the same, only he wasn’t there.
 ---
 ## JUDITH:
-I’d seen him look at her and there was boy in him, in his eyes and his face, 
+I’d seen him look at her and there was boy in him, in his eyes and his face,
 ---
 ## JUDITH:
 and now that was all gone there was old man taken over.
@@ -3532,16 +3532,16 @@ Leave him on the church steps in a basket?
 He knows all the hymns.
 ---
 ## MR.FLIP:
-If by some miracle these *were* good Christian people who didn’t stone him or beat him out of fear 
+If by some miracle these *were* good Christian people who didn’t stone him or beat him out of fear
 ---
 ## MR.FLIP:
-or chase him into the woods to live like an animal, 
+or chase him into the woods to live like an animal,
 ---
 ## MR.FLIP:
-if they decided to let him live in a small room at the back of the church 
+if they decided to let him live in a small room at the back of the church
 ---
 ## MR.FLIP:
-and sing hymns in a voice that makes the angels cry, 
+and sing hymns in a voice that makes the angels cry,
 ---
 ## MR.FLIP:
 *he would be treated with revulsion and pity the rest of his life*.
@@ -3643,7 +3643,7 @@ What happened to your eye?
 Oh, nothing. Just a bit of a territorial dispute.
 ---
 ## MR FLIP:
-They sought to displace us, 
+They sought to displace us,
 ---
 ## MR FLIP:
 I was forced to call upon my more pugilistic nature to prevent them.
@@ -3841,7 +3841,7 @@ Yes, and love me.
 Concern himself with my needs and my happiness.
 ---
 ## AMALIA:
-Take pride in my strength, my ability to work long hours, my skill at captivating an audience, 
+Take pride in my strength, my ability to work long hours, my skill at captivating an audience,
 ---
 ## AMALIA:
 charming the extra coins from their parkas in a music of metal rain.
@@ -3868,7 +3868,7 @@ From the shame of exhibition?
 Save me?
 ---
 ## AMALIA:
-By leaving me alone, day after day, staring at a spot on the wallpaper or god knows what, 
+By leaving me alone, day after day, staring at a spot on the wallpaper or god knows what,
 ---
 ## AMALIA:
 diapered, helpless lying on my back?
@@ -4103,7 +4103,7 @@ For we come of a dark people.
 She was full-blood gypsy.
 ---
 ## THE GIRL:
-Through her blood was passed to me the ability to see into the future, 
+Through her blood was passed to me the ability to see into the future,
 ---
 ## THE GIRL:
 which all our tribe possess deep within but only a few know how to bring up to the surface.
@@ -4118,10 +4118,10 @@ How to read the future in the lines of a hand.
 Also in tea-leaves.
 ---
 ## THE GIRL:
-Every time my father caught her teaching me the ancient secrets of her tribe, 
+Every time my father caught her teaching me the ancient secrets of her tribe,
 ---
 ## THE GIRL:
-he would beat her severely, and me as well, 
+he would beat her severely, and me as well,
 ---
 ## THE GIRL:
 but she took most of the blows, shielding me with her body.
@@ -4385,10 +4385,10 @@ Ah!
 You know, that new kid’s got a great act.
 ---
 ## MR FLIP:
-Because while people may or may not delight in an aquatic human, 
+Because while people may or may not delight in an aquatic human,
 ---
 ## MR FLIP:
-a saucy torso, or a boy with a very small head, 
+a saucy torso, or a boy with a very small head,
 ---
 ## MR FLIP:
 everybody wants to know THE FUTURE.
@@ -4472,13 +4472,13 @@ We did not end in flames.
 Economics did us in.
 ---
 ## MR FLIP:
-I think it was the Calvinists, really, and their bloody speechifying scared the good people away 
+I think it was the Calvinists, really, and their bloody speechifying scared the good people away
 ---
 ## MR FLIP:
 to cultivate the perversions of their souls at home, in private.
 ---
 ## MR FLIP:
-And all these beautiful creatures you see behind me, 
+And all these beautiful creatures you see behind me,
 ---
 ## MR FLIP:
 hand-plucked from the most exotic corners of the earth are now…
@@ -4527,7 +4527,7 @@ template: song
 la la la
 ---
 ## THE HUMAN SALAMANDER:
-It’s hot. 
+It’s hot.
 ---
 ## THE HUMAN SALAMANDER:
 …It’s hot.
