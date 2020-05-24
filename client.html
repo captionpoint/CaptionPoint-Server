@@ -11,17 +11,24 @@
     <link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144px.png" />
     <style>
       /* FREAKSHOW specific */
+      html.remark-container, body.remark-container {
+        background: transparent;
+      }
       .remark-slide-scaler {
         transform: none!important;
         width: auto!important;
         /* height: auto!important; */
         left: auto!important;
         top: auto!important;
+        background: transparent;
       }
-
+      .remark-slide-container.remark-fading {
+        opacity: 0;
+      }
       .remark-slide-content {
         font-size: 2.2em;
         display: block;
+        background: transparent;
       }
       .remark-slide-content h2 {
         font-size: inherit;
@@ -33,7 +40,7 @@
         display: inline;
       }
       .remark-visible {
-        /* background: black; */
+        background: transparent;
       }
       .remark-slide {
         /*super dark*/
@@ -42,12 +49,14 @@
         /*color: #007f00;*/
         /*less dark*/
         /* color: #00bf00; */
-        color: #fff;
-
+        color: white;
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: black;
       }
-      html.remark-container, body.remark-container {
+      /* end FREAKSHOW */
+      /* html.remark-container, body.remark-container {
         background: black;
-      }
+      } */
     </style>
     <script>
       $(document).ready(function(){
