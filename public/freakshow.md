@@ -96,6 +96,10 @@ template: overlap
 ## THE HUMAN SALAMANDER:
 ## THE GIRL:
 ---
+class: center, middle, smaller
+START HERE
+---
+---
 ## AMALIA:
 You are wondering if I have ever had sexual intercourse.
 ---
