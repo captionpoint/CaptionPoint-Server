@@ -570,7 +570,7 @@ Drags away their shit in buckets.
 And when they die (coughs) he buries their exotic bodies (cough) by the side of the road.
 ---
 template: noise
-Amalia has a coughing fit.
+Amalia has a coughing fit
 ---
 ## MR FLIP:
 I am not a bad man.
@@ -897,6 +897,7 @@ I could do that.
 ## AMALIA:
 I don’t want you to.
 ---
+---
 ## MR FLIP:
 I only pay for babies so their families don’t *think* they’re throwing them away.
 ---
@@ -930,6 +931,10 @@ There are those I have to turn away.
 ## MR FLIP:
 Not strange enough to pay what it costs me to keep them.
 ---
+---
+template: noise
+The Human Salamander moans
+---
 ## AMALIA:
 You’re quiet tonight, Salamander
 ---
@@ -952,7 +957,7 @@ She saw me.
 That’s what we’re here for.
 ---
 ## THE HUMAN SALAMANDER:
-*No*. Saw me.
+*No*. _Saw_ me.
 ---
 ## AMALIA:
 Oh.
@@ -964,7 +969,7 @@ She did not see a marvel of nature.
 An amphibian man.
 ---
 ## THE HUMAN SALAMANDER:
-She saw me.
+She saw _me_.
 ---
 ## THE HUMAN SALAMANDER:
 Run away from home and sitting in a tank of water.
@@ -991,7 +996,7 @@ Yes, no one doubts your credentials.
 I am a mutation.
 ---
 ## THE HUMAN SALAMANDER:
-That means change.
+That means _change_.
 ---
 ## THE HUMAN SALAMANDER:
 Changed.
@@ -1147,7 +1152,7 @@ Her eyes burned.
 Because she caught me.
 ---
 ## THE HUMAN SALAMANDER:
-She saw me.
+She saw _me_.
 ---
 ## AMALIA:
 It’ll never happen again.
@@ -1157,6 +1162,7 @@ She’ll never come back.
 ---
 ## THE HUMAN SALAMANDER: <i>(soft)</i>
 I know.
+---
 ---
 ## MR FLIP:
 Why do you want to hear it again?
@@ -1202,6 +1208,7 @@ Were her arms very beautiful?
 ---
 ## MR FLIP:
 Yes.
+---
 ---
 ## MATTHEW:
 And I heard of another place so cold they live in snow.
@@ -1415,12 +1422,6 @@ template: song
 ## PINHEAD:
 Dingue donda donde
 ---
-## AMALIA:
-Would you&#8288;—
----
-## JUDITH:
-Of course
----
 template: song
 ## PINHEAD:
 Voila l’cure qui arrive, voila l’cure qui arrive
@@ -1492,6 +1493,7 @@ Does Jesus want me to?
 ## JUDITH:
 Yes. Jesus wants you to sleep.
 ---
+---
 ## MATTHEW:
 Do you think you own her?
 ---
@@ -1555,6 +1557,7 @@ And then where would you be?
 ## MR FLIP:
 If you were not in her presence?
 ---
+---
 ## JUDITH:
 Why don’t you fire him?
 ---
@@ -1612,8 +1615,6 @@ They never will.
 ## PINHEAD:
 He forgave the Magdalene.
 ---
-template: noise
-psssst!
 ---
 ## THE HUMAN SALAMANDER:
 You…You can’t be here.
@@ -2974,6 +2975,7 @@ template: song
 ## PINHEAD:
 If you’re the sweetest little baby in town
 ---
+---
 ## MR FLIP:
 How were profits today?
 ---
@@ -3301,6 +3303,7 @@ Oh&#8288;—don’t.
 ## THE GIRL:
 I’m all dirty.
 ---
+---
 ## THE GIRL:
 Oh. Oh. You can’t take that back, now.
 ---
@@ -3312,6 +3315,7 @@ You’re mine.
 ---
 ## THE HUMAN SALAMANDER:
 Yes.
+---
 ---
 ## JUDITH:
 She did love him.
@@ -3694,6 +3698,7 @@ Like your own.
 ## AMALIA:
 Mm. I thought so.
 ---
+---
 ## MATTHEW:
 How could you?
 ---
@@ -3922,6 +3927,7 @@ Are you sending me away?
 ## AMALIA:
 Yes.
 ---
+---
 template: song
 ## PINHEAD:
 la la la
@@ -3988,6 +3994,7 @@ Where’s your pride, girl?
 ---
 ## JUDITH:
 Goodbye.
+---
 ---
 ## AMALIA:
 Did I keep you too long?

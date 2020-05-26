@@ -28,6 +28,9 @@
       .remark-slide-container.remark-fading {
         opacity: 0;
       }
+      .blackout {
+        opacity: 0;
+      }
       .remark-slide-content {
         font-size: 2.2em;
         display: block;
@@ -90,7 +93,7 @@
           console.log("blacking out " + msg);
           var press = $.Event("keydown");
           press.which = 66;
-          $(window).trigger(press);
+          $(".remark-slide").toggleClass("blackout");
 
         });
 

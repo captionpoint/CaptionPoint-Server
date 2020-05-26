@@ -66,18 +66,47 @@
 /*-----------------------------------------*/
 
 /*TEMPLATE: SONG STYLES*/
-      .eighthnote {
-        text-align: center;
-      }
-      .eighthnote p {
-        margin-bottom: 20px;
-      }
-      .eighthnote p::before {
-        content: "\266A \00A0";
-      }
-      .eighthnote p::after {
-        content: "\00A0 \266A";
-      }
+/*-----------------------------------------*/
+
+/*TEMPLATE: SONG STYLES*/
+.song {
+  text-align: center;
+}
+.song p {
+    margin-bottom: 20px;
+  }
+.song p::before {
+      content: "\266A \00A0";
+    }
+.song p::after {
+      content: "\00A0 \266A";
+    }
+
+
+/*-----------------------------------------*/
+
+/*TEMPLATE: NOISE STYLES*/
+.noise {
+  text-align: center;
+}
+.noise p::before {
+    content: "[";
+  }
+.noise p::after {
+    content: "]";
+  }
+
+/*-----------------------------------------*/
+/*TEMPLATE: ASIDE STYLES (possibly unnecessary)*/
+.aside {
+  padding-top: 0; }
+.aside h2 {
+    display: inline-block;
+  }
+.aside p {
+    margin-top: -9px;
+  }
+
 /*-----------------------------------------*/
 
 /*POSSIBLE CHARACTER COLORS - change 'names' to match Character names*/
