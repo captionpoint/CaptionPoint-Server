@@ -140,7 +140,7 @@ They don’t even say it *to* me, really.
 I just hear them as they walk by.
 ---
 ## AMALIA:
-"MY GOD SHE’S BEAUTIFUL” they say to each other in varied tones of incredulity.
+“MY GOD…SHE’S BEAUTIFUL!” they say to each other in varied tones of incredulity.
 ---
 ## AMALIA:
 How could a freak, they ask themselves, have been blessed with such beauty?
