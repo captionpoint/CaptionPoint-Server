@@ -2789,7 +2789,10 @@ I’d see the sick thing swelling in their drawers.
 And me, and me down on all fours.
 ---
 ## JUDITH:
-I’d sniff over to him givin’ the evil eye and I’d set up a howlin *AAAAOOOOOUUUUUU*.
+I’d sniff over to him givin’ the evil eye and I’d set up a howlin' 
+---
+## JUDITH:
+*AAAAOOOOOUUUUUU*.
 ---
 ## JUDITH:
 Then you’d see ‘em shrink and quiver, yes
