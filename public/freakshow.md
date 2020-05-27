@@ -100,6 +100,167 @@ class: center, middle, smaller
 START HERE
 ---
 ---
+## JOHANNAH:
+Ahem.
+---
+## JOHANNAH:
+_Ahem_.
+---
+## JOHANNAH:
+Ahhhemmm!
+---
+## JOHANNAH:
+Greetings Spectators! Right this way, please.
+---
+## JOHANNAH:
+Prepare to feast your eyes on FREAKSHOW, a live. Virtual. Theatrical. Spectacular.
+---
+## JOHANNAH:
+Women’s Theatre Festival welcomes you to customize your experience in any of the following ways:
+---
+## JOHANNAH:
+To enter full screen mode click on the expand icon in the bottom right hand corner of your screen.
+---
+## JOHANNAH:
+You can select the escape key to exit full screen if you are viewing on a computer.
+---
+## JOHANNAH:
+On mobile devices, click the expand icon again or rotate your device.
+
+
+---
+## JOHANNAH:
+To adjust your volume settings, click on the bar graph icon to adjust the audio level to your liking.
+---
+## JOHANNAH:
+You may need to turn up the volume on your device as well.
+
+---
+## JOHANNAH:
+If you would like to adjust your video quality,
+---
+## JOHANNAH:
+you can click on the gear icon in the bottom right corner
+---
+## JOHANNAH:
+and choose 1080p to enhance the clarity of your viewing experience.
+---
+## JOHANNAH:
+If you’ve managed to figure out how to view this on your television—congrats to you!
+---
+## JOHANNAH:
+That’s above our paygrade.
+
+
+---
+## JOHANNAH:
+The chat and engagement features are fun! We hope you’ll Play along!
+---
+## JOHANNAH:
+Let’s try something now.
+---
+template: noise
+silence
+---
+## JOHANNAH:
+Oh, that WAS fun!
+---
+## JOHANNAH:
+We’ll also share links to post-show “lobby” events here and our program,
+---
+## JOHANNAH:
+your very own digital companion.
+
+
+---
+## JOHANNAH:
+If your experience starts to buffer, you can click the pause button in the bottom left corner once
+---
+## JOHANNAH:
+to stop the stream and again to restart.
+---
+## JOHANNAH:
+You can also reload the page if this does not work.
+---
+## JOHANNAH:
+Because this is a live performance coming to you from multiple locations
+---
+## JOHANNAH:
+and because many things such as your broadband provider,
+---
+## JOHANNAH:
+natural disasters, and other acts of god are beyond any of our control,
+---
+## JOHANNAH:
+let’s all just breathe a moment together before we bound forth into the unknown.
+---
+## JOHANNAH:
+Do you have all you need? A tasty beverage? A fancy hat?
+---
+## JOHANNAH:
+Go on, grab your popcorn--we’ll wait.  
+
+---
+## JOHANNAH:
+There will be one 10 minute intermission.
+---
+## JOHANNAH:
+You can silence your devices at this time….or not…..you won’t bother us.
+
+
+---
+## JOHANNAH:
+One final thing before we begin,
+---
+## JOHANNAH:
+Women’s Theatre Festival would like to take this opportunity to say THANK YOU—
+---
+## JOHANNAH:
+thank you to each and every one of you out there participating in this grand experiment!
+---
+## JOHANNAH:
+Thank you to our supporters, donors, artists, and volunteers who make this work possible!
+---
+## JOHANNAH:
+Thank you to each person who shares in our passion to create, produce, and promote
+---
+## JOHANNAH:
+extraordinary theatre by women and all marginalized genders!
+---
+## JOHANNAH:
+Thank you to this productions’s SPONSORS:
+---
+## JOHANNAH:
+CaptionPoint, who provided captions for all performances,
+---
+## JOHANNAH:
+the Firefly Circus,
+---
+## JOHANNAH:
+and Focus Light.
+---
+## JOHANNAH:
+Women’s Theatre Festival is supported by the United Arts Council of Raleigh and Wake County.
+---
+## JOHANNAH:
+FREAKSHOW was made possible by  the support of the City of Raleigh
+---
+## JOHANNAH:
+based on recommendations from the  City of Raleigh Arts Commission.
+---
+## JOHANNAH:
+FREAKSHOW also received support from the Network of Ensemble Theatres
+---
+## JOHANNAH:
+through the  NET/TEN Remote Connections grant.
+---
+## JOHANNAH:
+And now, to you, our honored guests, we invite you to sit back, relax, and enjoy FREAKSHOW.
+---
+## JOHANNAH:
+And to you two: back to work!
+---
+---
 ## AMALIA:
 You are wondering if I have ever had sexual intercourse.
 ---
@@ -2789,7 +2950,7 @@ I’d see the sick thing swelling in their drawers.
 And me, and me down on all fours.
 ---
 ## JUDITH:
-I’d sniff over to him givin’ the evil eye and I’d set up a howlin' 
+I’d sniff over to him givin’ the evil eye and I’d set up a howlin'
 ---
 ## JUDITH:
 *AAAAOOOOOUUUUUU*.
