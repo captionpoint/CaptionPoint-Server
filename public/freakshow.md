@@ -1029,7 +1029,10 @@ Burning.
 The Human Salamander does not blush.
 ---
 ## THE HUMAN SALAMANDER:
-The intricate network of veins and capillaries works differently than in ordinary humans.
+The intricate network of veins and capillaries
+---
+## THE HUMAN SALAMANDER:
+works differently than in ordinary humans.
 ---
 ## THE HUMAN SALAMANDER:
 But there it was.
@@ -1382,15 +1385,11 @@ Chez Monsieur le Cure, digue donda dondaine
 ---
 class: aside
 template: song
-## JUDITH
-## &
 ## PINHEAD:
 Chez Monsieur le Cure, digue donda dondaine
 ---
 class: aside
 template: song
-## JUDITH
-## &
 ## PINHEAD:
 Son amant vient la voir
 ---
@@ -1449,36 +1448,26 @@ Elle l’avait oublie, digue donda donde
 class: aside
 template: song
 ## JUDITH
-## &
-## PINHEAD:
 Voila la triste histoire, voila la triste histoire
 ---
 class: aside
 template: song
 ## JUDITH
-## &
-## PINHEAD:
 Les rats l’avaient mange
 ---
 class: aside
 template: song
 ## JUDITH
-## &
-## PINHEAD:
 Digue donda dondaine
 ---
 class: aside
 template: song
 ## JUDITH
-## &
-## PINHEAD:
 Les rats l’avaient mange
 ---
 class: aside
 template: song
 ## JUDITH
-## &
-## PINHEAD:
 Digue donda dondaine
 ---
 ## JUDITH:
@@ -2039,9 +2028,6 @@ Just a stomachache?
 ---
 ## THE HUMAN SALAMANDER: <i>(surprised)</i>
 Yes.
----
-template: noise
-Amelia laughs
 ---
 ## AMALIA:
 So. Has it crossed your mind yet?
@@ -2869,7 +2855,10 @@ You can’t help but look her in the face.
 Can’t help but stare.
 ---
 ## JUDITH:
-“GOD, SHE’S UGLY,” and all that beauty down below.
+“GOD, SHE’S UGLY,”
+---
+## JUDITH:
+and all that beauty down below.
 ---
 ## JUDITH:
 Swollen pink and white and muddy.
@@ -2928,7 +2917,7 @@ How can you&#8288;—
 ## JUDITH:
 He did.
 ---
-## AMALIA: <i>(sighs)</i>
+## AMALIA:
 Can’t you leave him alone?
 ---
 template: song
@@ -4546,10 +4535,6 @@ It’s hot.
 ## MR FLIP:
 And so, goodnight.
 ---
----
-template: title
-class: smaller
-Open Captioning for this performance was made possible by CaptionPoint.
 ---
 ---
 <style>
