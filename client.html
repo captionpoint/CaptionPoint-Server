@@ -11,12 +11,18 @@
     <link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144px.png" />
     <style>
       /* FREAKSHOW specific */
-      html.remark-container, body.remark-container {
+      .remark-container {
         background: transparent;
-        /* background: url("images/caption-card.png"); */
+        /* background-image: url("images/caption-card.png"); */
         /* background-size: cover; */
         /* background-repeat: no-repeat; */
       }
+
+      /* .remark-container.no-bg {
+        background: transparent;
+        background-image: none;
+      } */
+
       .remark-slide-scaler {
         transform: none!important;
         width: auto!important;
@@ -97,6 +103,7 @@
           console.log("blacking out " + msg);
           var press = $.Event("keydown");
           press.which = 66;
+          $(".remark-container").toggleClass("no-bg");
           $(".remark-slide").toggleClass("blackout");
 
         });

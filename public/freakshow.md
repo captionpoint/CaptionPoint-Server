@@ -6,7 +6,7 @@ BEGIN SETTINGS
 title: TITLE
 author: Author
 
-[//]: # (color settings&#8288;—replace "character-_____" with a character name)
+[//]: # (color settings&#8288;—replace “character-_____” with a character name)
 plum-purple: pinhead
 stiletto-red: mr-flip
 st-tropaz-blue: matthew
@@ -420,7 +420,7 @@ Thinking he’d have to chase off a pair of young lovers
 ## AMALIA:
 and instead finding a man and a torso.
 ---
-## AMALIA: <i>(laughs)</i>
+## AMALIA:
 You can tell that I am well taken care of.
 ---
 ## AMALIA:
@@ -733,6 +733,7 @@ And when they die (coughs) he buries their exotic bodies (cough) by the side of 
 template: noise
 Amalia has a coughing fit
 ---
+---
 ## MR FLIP:
 I am not a bad man.
 ---
@@ -925,7 +926,7 @@ When you were the star of my show.
 ## JUDITH:
 Not now.
 ---
-## AMALIA: <i>(snapping)</i>
+## AMALIA:
 Oh, come now, don’t make us all wait.
 ---
 ## JUDITH:
@@ -1028,7 +1029,7 @@ It was all the talk among our clientele today.
 ## AMALIA:
 You see, we’re a much better show.
 ---
-## AMALIA: <i>(sadly)</i>
+## AMALIA:
 Because everything here is true. All true.
 ---
 ## MATTHEW:
@@ -1238,7 +1239,10 @@ A wandering pair of eyes, set the lie to the whole thing.
 She’s cracked my tank.
 ---
 ## THE HUMAN SALAMANDER:
-I won’t notice the water level sinking slow, just one day will come and I’ll be naked.
+I won’t notice the water level sinking slow,
+---
+## THE HUMAN SALAMANDER:
+just one day will come and I’ll be naked.
 ---
 ## THE HUMAN SALAMANDER:
 She doesn’t even know what she’s done.
@@ -1324,7 +1328,7 @@ It’ll never happen again.
 ## AMALIA:
 She’ll never come back.
 ---
-## THE HUMAN SALAMANDER: <i>(soft)</i>
+## THE HUMAN SALAMANDER:
 I know.
 ---
 ---
@@ -1482,7 +1486,7 @@ They stick to the trees, climb right up the side.
 ## MATTHEW:
 Can you imagine the heat and the green and a jungle full of singing frogs&#8288;—
 ---
-## AMALIA: <i>(erupts)</i>
+## AMALIA:
 Just go.
 ---
 ## MATTHEW:
@@ -1521,7 +1525,7 @@ Daniel? Daniel?
 ## AMALIA:
 Could you sing something for me?
 ---
-## PINHEAD: <i>(calming down)</i>
+## PINHEAD:
 Yes.
 ---
 ## AMALIA:
@@ -1544,12 +1548,10 @@ template: song
 ## JUDITH:
 Chez Monsieur le Cure, digue donda dondaine
 ---
-class: aside
 template: song
 ## PINHEAD:
 Chez Monsieur le Cure, digue donda dondaine
 ---
-class: aside
 template: song
 ## PINHEAD:
 Son amant vient la voir
@@ -1606,27 +1608,22 @@ template: song
 ## PINHEAD:
 Elle l’avait oublie, digue donda donde
 ---
-class: aside
 template: song
 ## JUDITH
 Voila la triste histoire, voila la triste histoire
 ---
-class: aside
 template: song
 ## JUDITH
 Les rats l’avaient mange
 ---
-class: aside
 template: song
 ## JUDITH
 Digue donda dondaine
 ---
-class: aside
 template: song
 ## JUDITH
 Les rats l’avaient mange
 ---
-class: aside
 template: song
 ## JUDITH
 Digue donda dondaine
@@ -1809,7 +1806,7 @@ The least you could do is act glad to see me.
 ## THE GIRL:
 Don’t you remember me?
 ---
-## THE HUMAN SALAMANDER: <i>(soft)</i>
+## THE HUMAN SALAMANDER:
 Yes.
 ---
 ## THE GIRL:
@@ -1890,7 +1887,7 @@ Going to be whipped sure for sneaking out
 ## THE GIRL:
 to declare my love to a circus freak in the middle of the night.
 ---
-## THE HUMAN SALAMANDER: <i>(grandly)</i>
+## THE HUMAN SALAMANDER:
 You love The Salamander.
 ---
 ## THE GIRL:
@@ -1951,7 +1948,10 @@ I’m not a rube, you know.
 I…couldn’t breathe.
 ---
 ## THE HUMAN SALAMANDER:
-I *sit* in a tank of water because otherwise my delicate amphibious skin would parch and crack.
+I *sit* in a tank of water
+---
+## THE HUMAN SALAMANDER:
+because otherwise my delicate amphibious skin would parch and crack.
 ---
 ## THE HUMAN SALAMANDER:
 The gills&#8288;—see them?&#8288;—need to be kept moist or I could not breathe.
@@ -1992,7 +1992,7 @@ Oh my god.
 ## AMALIA:
 Young woman! Open up this curtain.
 ---
-## THE HUMAN SALAMANDER: <i>(breathless)</i>
+## THE HUMAN SALAMANDER:
 I’m sorry we woke you&#8288;—
 ---
 ## AMALIA:
@@ -2043,7 +2043,7 @@ Come away with me!
 ## AMALIA:
 Do you want to, Tom?
 ---
-## THE HUMAN SALAMANDER: <i>(soft)</i>
+## THE HUMAN SALAMANDER:
 I can’t.
 ---
 ## AMALIA:
@@ -2052,7 +2052,7 @@ Didn’t you hear?
 ## AMALIA:
 She says she loves you.
 ---
-## THE HUMAN SALAMANDER: <i>(agonized)</i>
+## THE HUMAN SALAMANDER:
 I *can’t*.
 ---
 ## AMALIA:
@@ -2175,7 +2175,7 @@ But you must learn to breathe again, Salamander.
 ## AMALIA:
 Autonomy is not a thing to be given up for comfort.
 ---
-## THE HUMAN SALAMANDER: <i>(soft)</i>
+## THE HUMAN SALAMANDER:
 It’ll be nice having her around for a while.
 ---
 ## THE HUMAN SALAMANDER:
@@ -2187,7 +2187,7 @@ I don’t think.
 ## AMALIA:
 Just a stomachache?
 ---
-## THE HUMAN SALAMANDER: <i>(surprised)</i>
+## THE HUMAN SALAMANDER:
 Yes.
 ---
 ## AMALIA:
@@ -2364,7 +2364,7 @@ Can she sell tickets?
 ## AMALIA:
 A head for figures and a figure that turns heads.
 ---
-## MR FLIP: <i>(laughs)</i>
+## MR FLIP:
 All right.
 ---
 ## MR FLIP:
@@ -2382,7 +2382,7 @@ Don’t know why you think you can order me around.
 ## MR FLIP:
 There’s a human torso in England who paints miniatures, you know.
 ---
-## AMALIA: <i>(lofty)</i>
+## AMALIA:
 So hire her, if you can afford her fees.
 ---
 ## MR FLIP:
@@ -2490,7 +2490,7 @@ Where you&#8288;—?
 ## THE GIRL:
 Kitchen. Wanna&#8288;—?
 ---
-## THE HUMAN SALAMANDER: <i>(slightly miserable)</i>
+## THE HUMAN SALAMANDER:
 Can’t.
 ---
 ## THE GIRL:
@@ -2547,10 +2547,10 @@ Uh, no.
 ## MATTHEW:
 I don’t make biscuits.
 ---
-## THE GIRL: <i>(teasing)</i>
+## THE GIRL:
 Your mama never taught you to make biscuits?
 ---
-## MATTHEW: <i>(defensive)</i>
+## MATTHEW:
 She never taught me how to make chowder, neither.
 ---
 ## MATTHEW:
@@ -2950,7 +2950,7 @@ I’d see the sick thing swelling in their drawers.
 And me, and me down on all fours.
 ---
 ## JUDITH:
-I’d sniff over to him givin’ the evil eye and I’d set up a howlin'
+I’d sniff over to him givin’ the evil eye and I’d set up a howlin’
 ---
 ## JUDITH:
 *AAAAOOOOOUUUUUU*.
@@ -3072,7 +3072,7 @@ How can you&#8288;—
 ## MATTHEW:
 How can you look another human being in the face, you&#8288;—you&#8288;—
 ---
-## MR FLIP: <i>(calm)</i>
+## MR FLIP:
 I made her. Created her.
 ---
 ## MATTHEW:
@@ -3381,6 +3381,7 @@ That’s all.
 ## MR FLIP:
 You’d better get started on them potatoes.
 ---
+---
 ## PINHEAD:
 Jesus was a magician.
 ---
@@ -3396,35 +3397,39 @@ Pulled loaves and fishes out of his hat.
 ## PINHEAD:
 The fishes must have been beautiful.
 ---
-## PINHEAD: <i>(sing-song)</i>
+## PINHEAD:
 Out of his hat.
 ---
-## PINHEAD: <i>(sing-song)</i>
+## PINHEAD:
 Out of his hat.
 ---
-## PINHEAD: <i>(sing-song)</i>
+## PINHEAD:
 Jesus fishes out of his hat.
 ---
-## PINHEAD: <i>(sing-song)</i>
+## PINHEAD:
 Oh, Jesus.
 ---
-## PINHEAD: <i>(sing-song)</i>
+## PINHEAD:
 Oh, Jesus what have I done?
 ---
-## PINHEAD: <i>(sing-song)</i>
+## PINHEAD:
 Dear lord I know I’m a sinner but why’d ya have to take it out on an innocent babe.
 ---
-## PINHEAD: <i>(sing-song)</i>
+## PINHEAD:
 Never done no wrong.
 ---
-## PINHEAD: <i>(sing-song)</i>
-Why couldn’t you just a struck me dead, leave my babe alone.
+## PINHEAD:
+Why couldn’t you just a struck me dead,
 ---
-## PINHEAD: <i>(sing-song)</i>
+## PINHEAD:
+leave my babe alone.
+---
+## PINHEAD:
 Look at the sweet thing.
 ---
-## PINHEAD: <i>(sing-song)</i>
+## PINHEAD:
 Sweet thing.
+---
 ---
 ## THE HUMAN SALAMANDER:
 He shouldn’t have spoken to you like that.
@@ -3602,13 +3607,13 @@ I could turn them for her.
 ## MATTHEW:
 But she doesn’t like you to do things for her.
 ---
-## AMALIA: <i>(coy)</i>
+## AMALIA:
 You must do something about the weather, sir.
 ---
-## AMALIA: <i>(coy)</i>
+## AMALIA:
 At the next spot I’d like a bit more rain.
 ---
-## AMALIA: <i>(coy)</i>
+## AMALIA:
 This dust is irritating.
 ---
 ## MR FLIP:
@@ -3623,7 +3628,7 @@ It is. Shall I send&#8288;—
 ## AMALIA:
 Can I have a bite?
 ---
-## MR FLIP: <i>(stunned)</i>
+## MR FLIP:
 Of course.
 ---
 ## AMALIA:
@@ -3653,6 +3658,10 @@ We’ve never had problems here.
 ## TOUGH:
 You do now.
 ---
+template: noise
+blows landing, grunts of pain
+---
+---
 ## JUDITH:
 How long ya gonna keep this up?
 ---
@@ -3668,7 +3677,7 @@ And *what* would you have me *do*?
 ## JUDITH:
 Cut ’em loose.
 ---
-## MR FLIP: <i>(shocked)</i>
+## MR FLIP:
 Judith! You know what it’s like out there.
 ---
 ## JUDITH:
@@ -3710,16 +3719,16 @@ and sing hymns in a voice that makes the angels cry,
 ## JUDITH:
 The Salamander can make his own way.
 ---
-## MR FLIP: <i>(pleading)</i>
+## MR FLIP:
 Judith, the boy grew gills.
 ---
-## MR FLIP: <i>(pleading)</i>
+## MR FLIP:
 He grew gills…for me.
 ---
-## MR FLIP: <i>(pleading)</i>
+## MR FLIP:
 Out of fright.
 ---
-## MR FLIP: <i>(pleading)</i>
+## MR FLIP:
 Because he thought he might be let go.
 ---
 ## JUDITH:
@@ -3882,7 +3891,7 @@ We have things to discuss.
 ## MR FLIP:
 Of course.
 ---
-## MATTHEW: <i>(sadly)</i>
+## MATTHEW:
 Never&#8288;—you would never take food from my hand.
 ---
 ## AMALIA:
@@ -3894,7 +3903,7 @@ Why?
 ## MATTHEW:
 Why would you never take food from my hand?
 ---
-## AMALIA: <i>(matter-of-factly)</i>
+## AMALIA:
 You know why.
 ---
 ## MATTHEW:
@@ -3945,7 +3954,7 @@ It’s disgusting.
 ## MATTHEW:
 We could get married…
 ---
-## AMALIA: <i>(with gentle humor)</i>
+## AMALIA:
 Where would I put the ring?
 ---
 ## MATTHEW:
@@ -4035,7 +4044,7 @@ By leaving me alone, day after day, staring at a spot on the wallpaper or god kn
 ## AMALIA:
 diapered, helpless lying on my back?
 ---
-## MATTHEW: <i>(faltering)</i>
+## MATTHEW:
 Judith could come with us, then.
 ---
 ## AMALIA:
@@ -4074,7 +4083,7 @@ Matthew.
 ## AMALIA:
 Would you like to brush my hair?
 ---
-## MATTHEW: <i>(choked up)</i>
+## MATTHEW:
 Are you sending me away?
 ---
 ## AMALIA:
@@ -4124,13 +4133,13 @@ If her blood stops, send for me.
 ## JUDITH:
 Other than that, you’re ready.
 ---
-## MR FLIP: <i>(frightened)</i>
+## MR FLIP:
 No.
 ---
-## MR FLIP: <i>(frightened)</i>
+## MR FLIP:
 What if she won’t feed?
 ---
-## MR FLIP: <i>(frightened)</i>
+## MR FLIP:
 It’s only been a fruit or two from my hands.
 ---
 ## JUDITH:
@@ -4144,6 +4153,7 @@ She’ll feed from no one else’s hand.
 ---
 ## MR FLIP:
 Where’s your pride, girl?
+---
 ---
 ## JUDITH:
 Goodbye.
@@ -4251,7 +4261,7 @@ Your ear…it’s bleeding.
 ## THE GIRL:
 Damn!
 ---
-## THE GIRL: <i>(loudly)</i>
+## THE GIRL:
 Mr. Flip!
 ---
 ## THE GIRL:
@@ -4350,7 +4360,7 @@ Well, I’m glad you have deemed us trustworthy with this…secret.
 ## MR FLIP:
 And I see no reason to keep your gift hidden from the public.
 ---
-## THE GIRL: <i>(a little panicked)</i>
+## THE GIRL:
 Once we’re away from here&#8288;—
 ---
 ## MR FLIP:
@@ -4371,13 +4381,13 @@ I understand.
 ## MR FLIP:
 We’ll pick up what you need on the next jump.
 ---
-## THE GIRL: <i>(relieved)</i>
+## THE GIRL:
 Yes.
 ---
 ## MR FLIP:
 Well. If you’ll excuse me…
 ---
-## THE HUMAN SALAMANDER: <i>(wondering)</i>
+## THE HUMAN SALAMANDER:
 Why didn’t you tell me that before?
 ---
 ## AMALIA:
@@ -4416,7 +4426,7 @@ I thought you wanted to run away.
 ## THE GIRL:
 No…
 ---
-## THE GIRL: <i>(understanding)</i>
+## THE GIRL:
 No!
 ---
 ## THE GIRL:
@@ -4476,10 +4486,10 @@ No.
 ## MR FLIP:
 Thirsty?
 ---
-## AMALIA: <i>(irritated)</i>
+## AMALIA:
 No.
 ---
-## AMALIA: <i>(relenting)</i>
+## AMALIA:
 Maybe later.
 ---
 ## AMALIA:
@@ -4512,16 +4522,16 @@ Treated like an animal.
 ## AMALIA:
 Daniel, we love the animals.
 ---
-## PINHEAD: <i>(happy)</i>
+## PINHEAD:
 Oh, yes.
 ---
-## PINHEAD: <i>(troubled)</i>
+## PINHEAD:
 Jesus said this place was full of sin.
 ---
-## PINHEAD: <i>(troubled)</i>
+## PINHEAD:
 A hell.
 ---
-## PINHEAD: <i>(troubled)</i>
+## PINHEAD:
 And like hell, it should burn.
 ---
 ## AMALIA:
@@ -4536,10 +4546,10 @@ You just had a bad dream.
 ## PINHEAD:
 No. He left matches. See&#8288;—
 ---
-## AMALIA: <i>(frightened)</i>
+## AMALIA:
 Daniel. No.
 ---
-## AMALIA: <i>(frightened)</i>
+## AMALIA:
 Put them down.
 ---
 ## PINHEAD:
@@ -4626,7 +4636,7 @@ No?
 ## MR FLIP:
 Sign a petition, brand me a sinner?
 ---
-## MR FLIP: <i>(sotto voce)</i>
+## MR FLIP:
 I’ll let you in on a little secret.
 ---
 ## MR FLIP:
@@ -4700,51 +4710,3 @@ It’s hot.
 And so, goodnight.
 ---
 ---
----
-<style>
-h2.{{plum-purple}},
-h2.{{plum-purple}}-,
-h2.-to-{{plum-purple}},
-h2.plum-purple {color: #862d86;}
-
-h2.{{stiletto-red}},
-h2.{{stiletto-red}}-,
-h2.-to-{{stiletto-red}},
-h2.stiletto-red {color: #9e2e2e;}
-
-h2.{{st-tropaz-blue}},
-h2.{{st-tropaz-blue}}-,
-h2.-to-{{st-tropaz-blue}},
-h2.st-tropaz-blue {color: #2966a3;}
-
-h2.{{orange-zest}},
-h2.{{orange-zest}}-,
-h2.-to-{{orange-zest}},
-h2.orange-zest {color: #df8020;}
-
-h2.{{green-goblin}},
-h2.{{green-goblin}}-,
-h2.-to-{{green-goblin}},
-h2.green-goblin {color: #3d8f3d;}
-
-h2.{{lavender-purple}},
-h2.{{lavender-purple}}-,
-h2.-to-{{lavender-purple}},
-h2.lavender-purple {color: #9177AC;}
-
-h2.{{shocking-pink}},
-h2.{{shocking-pink}}-,
-h2.-to-{{shocking-pink}},
-h2.shocking-pink {color: #e085b3;}
-
-h2.{{brown-clay}},
-h2.{{brown-clay}}-,
-h2.-to-{{brown-clay}},
-h2.brown-clay {color: #996633;}
-
-h2.{{pelorous-aqua}},
-h2.{{pelorous-aqua}}-,
-h2.-to-{{pelorous-aqua}},
-h2.pelorous-aqua {color: #40bfbf;}
-
-</style>
