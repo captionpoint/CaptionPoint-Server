@@ -301,7 +301,10 @@ They don’t even say it *to* me, really.
 I just hear them as they walk by.
 ---
 ## AMALIA:
-“MY GOD…SHE’S BEAUTIFUL!” they say to each other in varied tones of incredulity.
+“MY GOD…SHE’S BEAUTIFUL!”
+---
+## AMALIA:
+they say to each other in varied tones of incredulity.
 ---
 ## AMALIA:
 How could a freak, they ask themselves, have been blessed with such beauty?
@@ -780,7 +783,10 @@ But you also love me because I’m the only one you can look at without looking 
 You do not fear me as you fear them, as you fear *being* one of them,
 ---
 ## MR.FLIP:
-as you fear waking up one of them, drool running out of your mouth eyes glazed *but still alive inside*.
+as you fear waking up one of them, drool running out of your mouth,
+---
+## MR.FLIP:
+eyes glazed *but still alive inside*.
 ---
 ## MR FLIP:
 That really makes you shit, doesn’t it?
@@ -1765,6 +1771,8 @@ He forgave the Magdalene.
 ---
 ## THE HUMAN SALAMANDER:
 You…You can’t be here.
+---
+## THE GIRL:
 I had to see you.
 ---
 ## THE HUMAN SALAMANDER:
@@ -1862,15 +1870,6 @@ All I could see was you.
 ---
 ## THE GIRL:
 I should take a look around, now that I’m back.
----
-## THE GIRL:
-Paid good money this afternoon.
----
-## THE GIRL:
-I was gypped.
----
-## THE GIRL:
-Falling in love with you.
 ---
 template: noise
 The Human Salamander laughs
@@ -2790,7 +2789,7 @@ Had all my limbs fine.
 Just the split lip just the face like an animal.
 ---
 ## JUDITH:
-Never get ‘er married off, but she works just fine.
+Nevergetermarriedoff, but she works just fine.
 ---
 ## JUDITH:
 Ugly mug but she’s a strong ’un.
@@ -3309,6 +3308,7 @@ Put it out of your mind.
 ## JUDITH:
 You’ll not have the child.
 ---
+---
 ## MR FLIP:
 Put that down a moment, girl.
 ---
@@ -3587,7 +3587,8 @@ Been the longest three weeks I ever heard of.
 Oh, it hasn’t been three weeks…
 ---
 ## JUDITH:
-No, I suppose not yet
+No, I suppose not yet.
+---
 ---
 ## MATTHEW:
 She doesn’t have to do this, you know.
@@ -3740,6 +3741,7 @@ Now I know it was just a good time for the exhibition of freaks.
 ## JUDITH:
 And any fool could have made a go of it.
 ---
+---
 ## AMALIA:
 Sometimes I wish I had a cage.
 ---
@@ -3802,6 +3804,7 @@ For weeks after, I long for iron bars.
 ---
 ## AMALIA:
 To keep them out.
+---
 ---
 ## MR FLIP:
 How’s my angel?
@@ -4216,6 +4219,7 @@ If anyone hurts you I’ll track them and kill them.
 ## JUDITH:
 Rip their neck out with my teeth.
 ---
+---
 ## THE HUMAN SALAMANDER:
 Pssst.Louisa.
 ---
@@ -4263,6 +4267,7 @@ Damn!
 ---
 ## THE GIRL:
 Mr. Flip!
+---
 ---
 ## THE GIRL:
 I have decided you can be trusted with the secret of my parentage.
@@ -4441,6 +4446,7 @@ Well…
 ## THE GIRL:
 Why don’t you show me around?
 ---
+---
 ## MR FLIP:
 That girl’s got guts.
 ---
@@ -4504,6 +4510,7 @@ I’m fine. Go run the business.
 ## MR FLIP:
 All right.
 ---
+---
 ## PINHEAD:
 Jesus came to me in my sleep.
 ---
@@ -4554,6 +4561,7 @@ Put them down.
 ---
 ## PINHEAD:
 Ah!
+---
 ---
 ## MR FLIP:
 You know, that new kid’s got a great act.
