@@ -1989,7 +1989,7 @@ The Human Salamander gasps for breath
 Oh my god.
 ---
 ## AMALIA:
-Young woman! Open up this curtain.
+Young woman!
 ---
 ## THE HUMAN SALAMANDER:
 I’m sorry we woke you&#8288;—
@@ -4122,7 +4122,7 @@ I’ve been leaving for a long time, Max.
 *Traitorous bitch*.
 ---
 ## MR FLIP:
-Bring me the child?
+Bring me the child!
 ---
 ## JUDITH:
 Bitch, yes.
