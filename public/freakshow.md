@@ -4018,7 +4018,7 @@ Concern himself with my needs and my happiness.
 Take pride in my strength, my ability to work long hours, my skill at captivating an audience,
 ---
 ## AMALIA:
-charming the extra coins from their parkas in a music of metal rain.
+charming the extra coins from their pockets in a music of metal rain.
 ---
 ## AMALIA:
 I am the center of the universe.
