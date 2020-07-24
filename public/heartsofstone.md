@@ -123,6 +123,9 @@ Open Captioning for this performance is provided by CaptionPoint.
 ---
 ---
 template: song
+*instrumental music*
+---
+template: song
 *Deep Feeling* - Chuck Berry
 ---
 ## MADISON:
@@ -248,6 +251,10 @@ Please, lean in, and join us in the mystery of Donna Hoke's *Hearts of Stone*.
 template:song
 *Little Darlin'* - The Diamonds
 ---
+## DEGAULLE:
+Ro-sham-bo. Shoot!
+---
+---
 ## DOOMSDAY:
 I gotta get outta here. I gotta get outta here.
 ---
@@ -342,7 +349,10 @@ She might throw scissors. And she can’t get us out of here.
 You say that while she patiently comforts you day after day?
 ---
 ## DOOMSDAY:
-She doesn’t understand, and a dying man can say whatever he wants, *LEZ*ley.
+She doesn’t understand, 
+---
+## DOOMSDAY:
+and a dying man can say whatever he wants, *LEZ*ley.
 ---
 ## LIZLEY:
 Fuck off.
@@ -531,9 +541,6 @@ Scissors?
 ## LYDIA:
 Wait!
 ---
-template:song
-*Wake Up Little Suzy* - The Everyly Brothers
----
 ## ROY:
 Lydia? Who you talking to?
 ---
@@ -579,6 +586,8 @@ Go back to sleep.
 ## LYDIA:
 Scissors.
 ---
+template:song
+*Wake Up Little Suzy* - The Everyly Brothers
 ---
 ## ROY:
 I hate decaf.
@@ -1076,7 +1085,7 @@ Send out an order, and then poof! Gone.
 You’re batshit if you think anything is ever really gone.
 ---
 ## LYDIA:
-Ms. Alvarez, your lang--
+Ms. Alvarez, your language--
 ---
 ## ARMSTRONG:
 Cellphone codes.
@@ -1362,6 +1371,8 @@ It’s David Cosgrove, Lydia.
 ---
 ## LYDIA:
 David.
+---
+## LYDIA:
 What happened?
 ---
 ## COSGROVE:
@@ -1505,11 +1516,11 @@ What?
 ## LYDIA:
 Let’s try again! Wait!
 ---
-template:noise
-*(teapot whistling)*
----
 ## ROY:
 Lydia!
+---
+template:noise
+*(teapot whistling)*
 ---
 ## LYDIA:
 Don’t shout!
@@ -2241,7 +2252,7 @@ Simple.
 Still, what does that say about modern medicine?
 ---
 ## ROY:
-That we’s better stay healthy for years.
+That we’d better stay healthy for years.
 ---
 ## LYDIA:
 The more years together.
@@ -2271,10 +2282,7 @@ Doom and Lizley?
 They’re gone?
 ---
 ## ROY:
-Lydia? 
----
-## ROY:
-Who’re you talking to?
+Lydia? Who’re you talking to?
 ---
 ## DEGAULLE:
 Scissors!
@@ -2382,10 +2390,7 @@ What’s Ward 5?
 Rock.
 ---
 ## ROY:
-Lydia! 
----
-## ROY:
-Can you hear me?
+Lydia! Can you hear me?
 ---
 ## DOOMSDAY:
 Cold like a rock, yeah. 
@@ -2418,7 +2423,7 @@ I’m coming.
 Lydia!
 ---
 template:noise
-*(glass shattering)*
+*(teacup shattering)*
 ---
 template:song
 *All Shook Up* - Elvis
@@ -3044,9 +3049,6 @@ Aaargh!!
 ## DOOMSDAY:
 And I’m ready.
 ---
-template:song
-*Come Go With Me* - The Del-Vikings
----
 ## LYDIA:
 Sherman Seftis.
 ---
@@ -3063,7 +3065,7 @@ His real name is Sherman Seftis.
 And he wants people to know that.
 ---
 template:song
-*Fallin'* - Connie Francis
+*Come Go With Me* - The Del-Vikings
 ---
 ## BUREAUCRAT #1:
 We can’t release that information.
@@ -3225,10 +3227,7 @@ That’s low.
 And that was a response. 
 ---
 ## LYDIA:
-Hallelujah. 
----
-## LYDIA:
-I’m cured.
+Hallelujah. I’m cured.
 ---
 ## ROY:
 Do you... 
@@ -3588,10 +3587,7 @@ Scissors.
 I’m only giving him one.
 ---
 ## LYDIA:
-One can’t hurt. 
----
-## LYDIA:
-Right?
+One can’t hurt, right?
 ---
 ## LIZLEY:
 Just one.
@@ -3939,10 +3935,7 @@ I slept it off instead.
 You need to take care of yourself.
 ---
 ## ROY:
-Yeah. 
----
-## ROY:
-How about you?
+Yeah. How about you?
 ---
 ## LYDIA:
 I took the pill. 
@@ -4332,7 +4325,7 @@ Nobody cares.
 Those aren’t the kind you want caring--
 ---
 ## LYDIA:
-A juicy story, that’s all they want.
+A juicy story, that’s all they care about.
 ---
 ## ROY:
 Which they almost got.
@@ -6012,11 +6005,11 @@ It’s best not to overthink it.
 ## ROY:
 Lydia...
 ---
-template:song
-*Pledging My Love* - Johnny Tillotson
----
 ## ROY:
 How’d you know about the wood?
+---
+template:song
+*Pledging My Love* - Johnny Tillotson
 ---
 ## LYDIA:
 I’m sorry I couldn’t do more, Sherman.
@@ -6058,7 +6051,10 @@ Rock.
 I don’t know where to put it. I’m sorry.
 ---
 ## LYDIA:
-This is him? Five-one-seven-three?
+This is him? 
+---
+## LYDIA:
+Five-one-seven-three?
 ---
 ## LYDIA:
 Five-one-.... 
@@ -6095,6 +6091,9 @@ You’re not going?
 ---
 ## DUMMY:
 *(signs)* Stay.
+---
+## LYDIA:
+Stay.
 ---
 ## LYDIA:
 You can never say a word.
