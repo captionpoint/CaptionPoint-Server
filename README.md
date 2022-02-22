@@ -1,4 +1,6 @@
-# socket-example
+# A Version of CaptionPoint Using socket.io
+- allows for a "broadcaster" and "client" for wireless server functionality
+- can be used for "closed captioning" to multiple devices
 
 ## Getting Started
 
